@@ -1,8 +1,12 @@
+==============
+Change Control
+==============
+
 Risk
-####
+----
 
 Lowering the risk
-*****************
+^^^^^^^^^^^^^^^^^
 
 Change should be done through tools and culture.
 
@@ -15,10 +19,10 @@ Change should be done through tools and culture.
 .. _push-karma: ttps://www.facebook.com/note.php?note_id=10150660826788920)
 
 Database Patching
-#################
+^^^^^^^^^^^^^^^^^
 
 DB Patching Tools
-*****************
+^^^^^^^^^^^^^^^^^
 
 * Maven DB Patch: maven-db-patch_
 * PostgreSQL SQL based approach: sql-based-patching_
