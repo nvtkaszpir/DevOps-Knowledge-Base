@@ -1,15 +1,19 @@
+==============
+Best Practices
+==============
+
 Build Parallelization
-#####################
+---------------------
 
 GNU Make
-********
+^^^^^^^^
 
 Pitfals and Benefits: pitfals-and-benefits_ 
 
 .. _pitfals-and-benefits: http://www.cmcrossroads.com/article/pitfalls-and-benefits-gnu-make-parallelization
 
 Theory
-******
+^^^^^^
 
 Build System high level feature proposal: build-system-high-level_
 
@@ -17,7 +21,7 @@ Build System high level feature proposal: build-system-high-level_
 
 
 Build in the Cloud
-******************
+^^^^^^^^^^^^^^^^^^
 
 * Accessing source code: accessing-source_
 * How build system works: how-build-system-works_
@@ -30,7 +34,7 @@ Build in the Cloud
 .. _cloud-disitributing: http://google-engtools.blogspot.be/2011/10/build-in-cloud-distributing-build.html
 
 Build Automation
-****************
+^^^^^^^^^^^^^^^^
 
 * Automatic Creation of Build Jobs: creation-build-jobs_
 
