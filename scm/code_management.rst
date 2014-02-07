@@ -130,10 +130,10 @@ Tools and Plugins
 Git Propaganda
 """"""""""""""
 
-* Microsoft announces Git support: http://techcrunch.com/2013/01/30/microsoft-announces-git-support-for-visual-studio-team-foundation-server-and-service/
-* Google announces Git support: http://googlecode.blogspot.de/2011/08/announcing-git-support-for-google-code.html
-* Bitbucket announces Git support: http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/
-* CodePlex: http://blogs.msdn.com/b/bharry/archive/2010/01/27/codeplex-now-supports-mercurial.aspx
+* Microsoft announces Git support: microsoft-announces-git_
+* Google announces Git support: google-announces-git_
+* Bitbucket announces Git support: bitbucket-announces-git_
+* CodePlex: codeplex-announces-git_
 
 .. _microsoft-announces-git: http://techcrunch.com/2013/01/30/microsoft-announces-git-support-for-visual-studio-team-foundation-server-and-service/
 .. _google-announces-git: http://googlecode.blogspot.de/2011/08/announcing-git-support-for-google-code.html
@@ -206,3 +206,46 @@ Online Tutorials
 .. _how-to-start: http://sixrevisions.com/web-development/easy-git-tutorial/
 
 
+Git Presentations
+"""""""""""""""""
+
+* Randal Schwartz: randal-schwarts-git_
+* Randal Schwartz - Google Tech Talk: randal-schwarts-tech-talk-git_
+
+.. _randal-schwarts-git _http://vimeo.com/35778382
+.. _randal-schwarts-tech-talk-git _http://www.youtube.com/watch?v=8dhZ9BXQgc4
+
+Git cheatsheets
+"""""""""""""""
+
+http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_grey.pdf
+http://www.git-tower.com/blog/git-cheat-sheet-detail/
+https://raw.github.com/nerdgirl/git-cheatsheet-visual/master/gitcheatsheet.png
+http://www.ndpsoftware.com/git-cheatsheet.html
+
+Best Practices
+""""""""""""""
+
+http://sethrobertson.github.io/GitBestPractices/
+
+Git related articles
+""""""""""""""""""""
+
+* Git Branches: git-branches_
+* Git diff: git-diff_
+* On Git's Shortcomings: gits-shortcomings_
+* Reflog isn't scary: git-reflog_
+* Git minutes: git-minutes_
+
+.. _git-branches: http://bryan-murdock.blogspot.fi/2013/06/git-branches-are-not-branches.html
+.. _git-diff: http://blogs.atlassian.com/2013/06/git-diff/
+.. _gits-shortcomings: http://www.peterlundgren.com/blog/on-gits-shortcomings/
+.. _git-reflog: http://jscal.es/2013/08/05/seriously-the-reflog-isnt-that-scary/
+.. _git-minutes: http://episodes.gitminutes.com/
+
+Git and Android
+"""""""""""""""
+
+* Life of a Patch: life-of-patch_
+
+.. _life-of-patch: http://source.android.com/images/workflow-0.png
