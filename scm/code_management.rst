@@ -218,15 +218,22 @@ Git Presentations
 Git cheatsheets
 """""""""""""""
 
-http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_grey.pdf
-http://www.git-tower.com/blog/git-cheat-sheet-detail/
-https://raw.github.com/nerdgirl/git-cheatsheet-visual/master/gitcheatsheet.png
-http://www.ndpsoftware.com/git-cheatsheet.html
+* Git Tower Cheat Sheet Grey: git-tower-cheatsheet-grey_
+* Git Tower Cheat Sheet Detail: git-tower-cheatsheet-detail_
+* Nerdgirl Cheatsheet: nerdgirl-cheatsheet_
+* NDP Software Cheatsheet: ndp-cheatsheet_
+
+.. _git-tower-cheatsheet-grey: http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_grey.pdf
+.. _git-tower-cheatsheet-detail: http://www.git-tower.com/blog/git-cheat-sheet-detail/
+.. _nerdgirl-cheatsheet: https://raw.github.com/nerdgirl/git-cheatsheet-visual/master/gitcheatsheet.png
+.. _ndp-cheatsheet: http://www.ndpsoftware.com/git-cheatsheet.html
 
 Best Practices
 """"""""""""""
 
-http://sethrobertson.github.io/GitBestPractices/
+* Git Best Practices: git-best-practices_
+
+.. _git-best-practices: http://sethrobertson.github.io/GitBestPractices/
 
 Git related articles
 """"""""""""""""""""
@@ -249,3 +256,149 @@ Git and Android
 * Life of a Patch: life-of-patch_
 
 .. _life-of-patch: http://source.android.com/images/workflow-0.png
+
+
+Gerrit
+^^^^^^
+
+* Gerrit vs Rietveld and Gitosis: gerrit-rietveld-gitosis_
+* Gerrit vs other Git servers: gerrit-vs-other_
+* Gerrit & Jenkins integration: gerit-and-jenkins_
+* Future of Gerrit/Repo script: future-of-gerrit-and-repo_
+* Gerrit backup: gerrit-backup_
+* Gerrit installation: gerrit-installation_
+
+.. _gerrit-rietveld-gitosis: https://docs.google.com/document/pub?id=1JBZtCV-RW7Fkj6HU99aLnAuDC02Lx2X2ADDbtm7ZjLA
+.. _gerrit-vs-other: http://www.mediawiki.org/wiki/Git/Gerrit_evaluation#Criteria_by_which_to_judge_a_code_review_tool
+.. _gerit-and-jenkins: http://vimeo.com/20084957
+.. _future-of-gerrit-and-repo: https://groups.google.com/forum/?fromgroups=#!topic/repo-discuss/3XkCLGNwbH0
+.. _gerrit-backup: http://www.ovirt.org/Gerrit_server_backup
+.. _gerrit-installation: https://github.com/openstack-infra/config/blob/master/doc/source/gerrit.rst
+
+
+Cross Repo Dependencies
+"""""""""""""""""""""""
+
+* QT approach - Staging: qt-crd_
+* Gerrit contributors discussion: gerrit-crd_
+
+.. _qt-crd: http://qt-project.org/wiki/Gerrit_Introduction#a08363df2815db284c1d8e68994b5522
+.. _gerrit-crd: https://groups.google.com/forum/?fromgroups=#!topic/repo-discuss/mI1l5-fesI8
+
+Gerrit Server - public instances
+""""""""""""""""""""""""""""""""
+
+* Typo3: typo3-gerrit_
+* Android: android-gerrit_
+* QT: qt-gerrit_
+
+.. _typo3-gerrit: https://review.typo3.org/#/q/status:open,n,z
+.. _android-gerrit: https://gerrit-review.googlesource.com/
+.. _qt-gerrit: https://codereview.qt-project.org/#q,status:open,n,z
+
+Tips and Tricks
+"""""""""""""""
+
+* Git hooks deployment: hooks-deployment_
+* Get rid of Git dangling objects: dangling-objects_
+* Git hooks: git-hooks_
+
+.. _hooks-deployment: https://groups.google.com/forum/?fromgroups=#!topic/repo-discuss/s7iQDQDUtHQ
+.. _dangling-objects: http://www.tekkie.ro/news/howto-remove-all-dangling-commits-from-your-git-repository/
+.. _git-hooks: https://github.com/Newky/hooked
+
+Mercurial
+^^^^^^^^^
+
+Propaganda
+""""""""""
+
+* Google announces Mercurial support: 
+* CodePlex announces Mercurial support: 
+
+.. _google-mercurial: http://googlecode.blogspot.be/2009/04/mercurial-support-for-project-hosting.html
+.. _codeplex-mercurial: http://blogs.msdn.com/b/codeplex/archive/2010/01/22/codeplex-now-supporting-native-mercurial.aspx
+
+Architecture
+""""""""""""
+
+* Mercurial Architecture: ols-mercurial-paper.pdf
+
+Veracity
+^^^^^^^^
+
+* Homepage: veracity-homepage_
+
+.. _veracity-homepage: http://www.veracity-scm.com
+
+Fossil
+^^^^^^
+
+* Homepage: fossil-homepage_
+
+.. _fossil-homepage: http://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
+
+Boar
+
+* Homepage: boar-homepage_
+
+.. _boar-homepage: http://code.google.com/p/boar/
+
+VCS
+^^^
+VCS is an abstraction layer over various version control systems: vcs-homepage_. Project seems to be dead.
+
+.. _vcs-homepage: http://code.google.com/p/boar/
+
+Commercial
+^^^^^^^^^^
+
+* Perforce and Git Fusion: perforce-git-fusion_
+
+.. _perforce-git-fusion: http://www.perforce.com/sites/default/files/perforce-git-fusion-product-brief.pdf
+
+Perforce
+
+* Dear Perforce Fuck You: perforce-fuck-you_
+
+.. _perforce-fuck-you: http://weblog.masukomi.org/2007/08/31/dear-perforce-fuck-you
+
+Code Review
+^^^^^^^^^^^
+
+Phabricator
+"""""""""""
+
+Phabircator is developed and used by Facebook (and many other companies.. )
+
+* Homepage: phabricator-homepage
+
+.. _phabricator-homepage: http://phabricator.org/
+
+Rietveld
+""""""""
+
+* Installation: rietveld-installation_
+
+.. _rietveld-installation: http://django-gae2django.googlecode.com/svn/trunk/examples/rietveld/README
+
+Code Review Use Cases
+"""""""""""""""""""""
+
+* Duke Nuke 3D: duke-nuke-code-review_
+
+.. _duke-nuke-code-review: http://fabiensanglard.net/duke3d/index.php
+
+Tips and Tricks
+^^^^^^^^^^^^^^^
+
+* Closing issues via commit messages: commit-messages_
+
+.. _commit-messages: https://github.com/blog/1386-closing-issues-via-commit-messages
+
+Resources
+^^^^^^^^^
+
+* Code managemetn in Facebook: code-management-facebook_
+
+.. _code-management-facebook: http://www.youtube.com/watch?v=SinsSahmjl4#t=33m10s
