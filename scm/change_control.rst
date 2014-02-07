@@ -16,7 +16,7 @@ Change should be done through tools and culture.
 * introduce post/pre commit gatekeepers
 * introduce push-karma_ 
 
-.. _push-karma: ttps://www.facebook.com/note.php?note_id=10150660826788920)
+.. _push-karma: https://www.facebook.com/note.php?note_id=10150660826788920)
 
 Database Patching
 ^^^^^^^^^^^^^^^^^
