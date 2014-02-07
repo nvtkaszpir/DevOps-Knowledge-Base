@@ -9,7 +9,7 @@ SCM Knowledge Base
 SCM Knowledge Base
 ------------------
 
-This knowledge base includes topics of:
+This knowledge base includes topics of Software Configuration Management, Infrastructure Orchestration and DevOps:
 
 * Code Management      
 * Build Management
@@ -51,6 +51,8 @@ Difference between Software Configuration Management and Hardware Configuration 
 DevOps
 =================================
 
+build test
+
 .. toctree::
    :maxdepth: 1
    
@@ -60,11 +62,15 @@ DevOps
    devops/monitoring
    devops/agile_methodologies
 
+build test
+
 Other SCM Resources
 =================================
 
 .. toctree::
    :maxdepth: 1
+   
+   build test
    
    other/books
    other/web_sites
