@@ -52,9 +52,10 @@ VCS/DVCS Migrations
 ^^^^^^^^^^^^^^^^^^^
 
 * Eight key points to consider: clearvision-migrations_
+* Django migration to Github: django-github-migration_
 
 .. _clearvision-migrations: http://www.clearvision-cm.com/blog/migrating-your-scm-tool-8-key-points-to-consider-2/
-
+.. _django-github-migration: http://evennia.blogspot.be/2014/02/moving-from-google-code-to-github.html
 
 Large Changes in Code Review
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
