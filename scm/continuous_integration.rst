@@ -22,3 +22,8 @@ Jenkins
 
 .. _slides-2012: http://www.cloudbees.com/jenkins-user-conference-2012-san-francisco.cb
 .. _seven-habbits: http://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
+
+Links
+-----
+
+* http://peter.gillardmoss.me.uk/blog/2013/12/20/machine-images-as-build-artefacts/
