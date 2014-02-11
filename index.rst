@@ -58,7 +58,7 @@ Education
    :maxdepth: 1
    
    education/trainings_certifications
-   education/failure_examples
+   education/failures
    education/dictionary
 
 Events
