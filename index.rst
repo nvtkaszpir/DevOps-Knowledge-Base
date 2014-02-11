@@ -47,7 +47,7 @@ Software Configuration Management
    scm/cmdb
 
 DevOps
-=================================
+======
 
 
 .. toctree::
@@ -62,7 +62,7 @@ DevOps
 
 
 Other SCM Resources
-=================================
+===================
 
 .. toctree::
    :maxdepth: 1
@@ -73,7 +73,7 @@ Other SCM Resources
    other/magazines
    
 Education
-=================================
+=========
 
 .. toctree::
    :maxdepth: 1
@@ -82,7 +82,7 @@ Education
    education/failure_examples
 
 Events
-=================================
+======
 
 .. toctree::
    :maxdepth: 1
@@ -91,16 +91,17 @@ Events
   events/passed
 
 Python
-=================================
+======
 
 .. toctree::
    :maxdepth: 1
 
    python/propaganda
+   python/python
    python/django
 
 Linux
-=================================
+=====
 
 .. toctree::
    :maxdepth: 1
