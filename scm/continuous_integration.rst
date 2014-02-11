@@ -18,5 +18,7 @@ Jenkins
 ^^^^^^^
 
 * A lot of interesting movies and slides: slides-2012_
+* 7 Habbits of highly effectie Jenkins users: seven-habbits_
 
 .. _slides-2012: http://www.cloudbees.com/jenkins-user-conference-2012-san-francisco.cb
+.. _seven-habbits: http://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
