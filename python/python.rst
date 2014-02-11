@@ -79,6 +79,14 @@ Django and Salt: https://github.com/wunki/django-salted
 
 Testing: http://www.realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/
 
+Links
+^^^^^
+
+* http://www.jeffknupp.com/blog/2013/12/18/starting-a-django-16-project-the-right-way/
+* http://www.realpython.com/blog/python/kickstarting-a-django-open-source-project/#.UtlNhfQ1hok
+* http://django-oscar.readthedocs.org/en/latest/releases/v0.6.html
+* http://pedrokroger.net/getting-started-pycharm-python-ide
+* http://fastml.com/why-ipy-reasons-for-using-ipython-interactively/
 
 Books
 -----
