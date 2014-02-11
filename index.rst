@@ -57,8 +57,9 @@ Education
 .. toctree::
    :maxdepth: 1
    
-   education/certifications_trainings
+   education/trainings_certifications
    education/failure_examples
+   education/dictionary
 
 Events
 ======
