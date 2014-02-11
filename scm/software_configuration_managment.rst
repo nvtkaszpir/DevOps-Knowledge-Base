@@ -1,5 +1,5 @@
 =================================
-Software Configuration Management
+Software Configuraiton Management
 =================================
 
 * Difference between Software Configuration Management and Hardware Configuration Management: scm-vs-hcm_
