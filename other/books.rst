@@ -37,3 +37,10 @@ Continuous Delivery
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation: continuous-delivery_
 
 .. _continuous-delivery: http://www.amazon.com/gp/product/B003YMNVC0/ref=as_li_tf_tl?ie=UTF8&tag=sf0117-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B003YMNVC0
+
+Free
+----
+
+Great database of free books about Software Development (all the languages): free-programming_
+
+.. _free-programming: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
