@@ -1,6 +1,6 @@
-=================================
-Software Configuration Management
-=================================
+==================
+SCM Generic Topics
+==================
 
 * Difference between Software Configuration Management and Hardware Configuration Management: scm-vs-hcm_
 
