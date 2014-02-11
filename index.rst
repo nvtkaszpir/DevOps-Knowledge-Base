@@ -50,6 +50,7 @@ Other SCM Resources
    other/websites
    other/video
    other/magazines
+   other/fun
    
 Education
 =========
@@ -86,6 +87,7 @@ Linux
 .. toctree::
    :maxdepth: 1
    
+   linux/linux
    linux/ubuntu
 
 FAQ
