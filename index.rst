@@ -35,7 +35,7 @@ Software Configuration Management
 .. toctree::
    :maxdepth: 1
    
-   scm/software_configuration_management
+   scm/scm_generic_topics
    scm/code_management
    scm/build_management
    scm/change_control
