@@ -11,19 +11,6 @@ SCM Knowledge Base
 
 This knowledge base includes topics of: Software Configuration Management, Infrastructure Orchestration and DevOps
 
-* Code Management      
-* Build Management
-* Environment Configuration
-* Change Control
-* Release Management
-* Deployment Management
-* Continuous Integration
-* Continuous Delivery
-* Remote Execution
-* Automation
-* DevOps
-* Testing, Validation, Monitoring
-
 --------
 Contents
 --------
