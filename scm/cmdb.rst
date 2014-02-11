@@ -26,9 +26,7 @@ Migrations
 
 From ANY CMDB to Django CMDB
 
-Django insepctdb module allows you to migrate from an old CMDB engine to a new one (Django based) within one hour.. Below you can find two examples presenting the idea:
-
-Examples:
+Django insepctdb module allows you to migrate from an old CMDB engine to a new one (Django based) within an hour.. Below you can find two examples presenting the idea:
 
 http://www.ianlewis.org/en/administer-wordpress-django-admin
 http://labs.freehackers.org/projects/djangoredmineadmin
