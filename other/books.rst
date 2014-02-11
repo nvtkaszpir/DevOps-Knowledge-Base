@@ -41,6 +41,7 @@ Continuous Delivery: Reliable Software Releases through Build, Test, and Deploym
 Free
 ----
 
-Great database of free books about Software Development (all the languages): free-programming_
-
+* Great database of free books about Software Development (all the languages): free-programming_
+* Application Release and Deployment For Dummies: ibm-for-dummies_
 .. _free-programming: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+.. _ibm-for-dummies: https://www.ibm.com/developerworks/community/blogs/greenelk/entry/application_release_and_deployment_for_dummies_now_available
