@@ -47,7 +47,7 @@ Other SCM Resources
    :maxdepth: 1
    
    other/books
-   other/web_sites
+   other/websites
    other/video
    other/magazines
    
