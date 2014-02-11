@@ -22,7 +22,7 @@ Naming Conventions
 
 One of themost common naming and versioning conventions:
 
-X.0 for Major releases 
-X.X.0 for minor releases 
-X.X.X.0 for patches that don't include functionality updates. 
-X.X.X.X for security and/or emergency patches.
+ X.0 for Major releases 
+ X.X.0 for minor releases 
+ X.X.X.0 for patches that don't include functionality updates. 
+ X.X.X.X for security and/or emergency patches.
