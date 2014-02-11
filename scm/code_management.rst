@@ -14,6 +14,13 @@ Best Practices
 Common Problems
 ---------------
 
+Branching
+---------
+
+* Branching Patterns for Parallel Software Development: branching-bradapp_
+
+.. _branching-bradapp: http://www.bradapp.com/acme/branching/
+
 Performance & Scaling
 ^^^^^^^^^^^^^^^^^^^^^
 
