@@ -44,21 +44,13 @@ Software Configuration Management
    scm/deployment_management
    scm/continuous_integration
    scm/continuous_delivery
+   scm/devops
+   scm/remote_execution
+   scm/automation
+   scm/testing
+   scm/monitoring
+   scm/agile
    scm/cmdb
-
-DevOps
-======
-
-
-.. toctree::
-   :maxdepth: 1
-   
-   devops/devops
-   devops/remote_execution
-   devops/automation
-   devops/testing
-   devops/monitoring
-   devops/agile_methodologies
 
 
 Other SCM Resources
