@@ -16,3 +16,13 @@ Articles
 .. _release-guidelines: http://www.cmcrossroads.com/article/guidelines-building-monolithic-release-management-system
 .. _release-trends-2013: http://go.xebialabs.com/Survey2013.html
 .. _ubuntu-switch: http://www.omgubuntu.co.uk/2013/01/ubuntu-not-switching-to-rolling-release-model
+
+Naming Conventions
+------------------
+
+One of themost common naming and versioning conventions:
+
+X.0 for Major releases 
+X.X.0 for minor releases 
+X.X.X.0 for patches that don't include functionality updates. 
+X.X.X.X for security and/or emergency patches.
