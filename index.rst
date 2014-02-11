@@ -53,6 +53,7 @@ DevOps
 .. toctree::
    :maxdepth: 1
    
+   devops/devops
    devops/remote_execution
    devops/automation
    devops/testing
