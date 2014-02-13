@@ -2,6 +2,14 @@
 Monitoring
 ==========
 
+
+KPIs
+--------------------------
+
+* 5 KPIs that Make the Case for DevOps: puppet-kpis_
+
+.. _puppet-kpis: http://puppetlabs.com/blog/5-kpis-that-make-the-case-for-devops
+
 Tools
 -----
 
