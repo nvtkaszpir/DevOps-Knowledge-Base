@@ -58,11 +58,14 @@ For every Distributed Version Control System (DVCS) creating a workspace operati
 VCS/DVCS Migrations
 ^^^^^^^^^^^^^^^^^^^
 
+* Migrating a large codebase to Git with Atlassian Stash: atlassian-svn-to-git_
 * Eight key points to consider: clearvision-migrations_
 * Django migration to Github: django-github-migration_
 
+.. _atlassian-svn-to-git: http://blogs.atlassian.com/2014/02/migrating-codebase-svn-to-git-with-stash/
 .. _clearvision-migrations: http://www.clearvision-cm.com/blog/migrating-your-scm-tool-8-key-points-to-consider-2/
 .. _django-github-migration: http://evennia.blogspot.be/2014/02/moving-from-google-code-to-github.html
+
 
 Large Changes in Code Review
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
