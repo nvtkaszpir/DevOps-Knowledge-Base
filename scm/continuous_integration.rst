@@ -26,7 +26,7 @@ Jenkins
 Docker
 ^^^^^^
 
-* Docker Homepage: https://github.com/dotcloud/docker
+* Docker Homepage: docker-homepage_
 * Create a Python 3 environment using Docker: python3-docker_
 
 .. _docker-homepage: https://github.com/dotcloud/docker
