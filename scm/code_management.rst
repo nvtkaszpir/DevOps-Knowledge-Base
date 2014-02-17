@@ -26,8 +26,12 @@ Choosing VCS System
 Branching
 ^^^^^^^^^
 
+* Feature development lifecycle with Git: feature-lifecycle_
+* Simple Git workflow is simple: simple-git-worklfow_
 * Branching Patterns for Parallel Software Development: branching-bradapp_
 
+.. _feature-lifecycle: http://blogs.atlassian.com/2014/01/feature-development-lifecycle-git-webinar-recording-now-available/
+.. _simple-git-worklfow: http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/
 .. _branching-bradapp: http://www.bradapp.com/acme/branching/
 
 Performance & Scaling
@@ -44,10 +48,12 @@ Binary Files
 
 For every Distributed Version Control System (DVCS) handling (especially large) binary files is an issue. 
 
+* Git Document Sharing: git-document-sharing_
 * Using Git to Manage the Storage and Versioning of Digital Objects richard-anderson-stanford_
 * Git & Perforce comparison: git-perforce-bin-files_
 * Linus Torvalds about big objects in Git: linus-big-objects_
 
+.. _git-document-sharing: http://blogs.wandisco.com/2013/12/23/git-document-sharing/
 .. _richard-anderson-stanford: http://www.google.pl/url?sa=t&rct=j&q=git%20large%20binary%20issue&source=web&cd=7&cad=rja&ved=0CFYQFjAG&url=http%3A%2F%2Flib.stanford.edu%2Ffiles%2FUsing-Git-to-Manage-the-Storage-and-Versioning-of-Digital-Objects.doc&ei=kNnBUZL2HI3sO4KXgJgB&usg=AFQjCNEDHSuJFY0_kaT_2r8DqoNaHtzrgQ
 .. _git-perforce-bin-files: http://osdir.com/ml/git/2009-05/msg00051.html
 .. _linus-big-objects: http://kerneltrap.org/mailarchive/git/2006/2/8/200591
@@ -67,10 +73,12 @@ For every Distributed Version Control System (DVCS) creating a workspace operati
 VCS/DVCS Migrations
 ^^^^^^^^^^^^^^^^^^^
 
+* Use Git even if your team doesn’t: git-svn tips and tricks: git-svn-tips-and-tricks_
 * Migrating a large codebase to Git with Atlassian Stash: atlassian-svn-to-git_
 * Eight key points to consider: clearvision-migrations_
 * Django migration to Github: django-github-migration_
 
+.. _git-svn-tips-and-tricks: http://blogs.atlassian.com/2013/12/git-svn-tips-and-tricks/
 .. _atlassian-svn-to-git: http://blogs.atlassian.com/2014/02/migrating-codebase-svn-to-git-with-stash/
 .. _clearvision-migrations: http://www.clearvision-cm.com/blog/migrating-your-scm-tool-8-key-points-to-consider-2/
 .. _django-github-migration: http://evennia.blogspot.be/2014/02/moving-from-google-code-to-github.html
@@ -185,9 +193,11 @@ Git on Windows
 Git & Multiple Projects
 """""""""""""""""""""""
 
+* Managing Many Repos: managing-many-repos_
 * Gitslave: gitslave_
 * Submodules: submodules_
 
+.. _managing-many-repos: http://blogs.wandisco.com/2014/01/08/challenges-git-enterprise-architect-1-managing-many-repos/
 .. _gitslave: http://gitslave.sourceforge.net/
 .. _submodules: http://git-scm.com/book/en/Git-Tools-Submodules
 
@@ -291,6 +301,7 @@ Git and Android
 Gerrit
 ^^^^^^
 
+* FOSDEM: Using Gerrit Code Review: using-gerrit_
 * Gerrit vs Rietveld and Gitosis: gerrit-rietveld-gitosis_
 * Gerrit vs other Git servers: gerrit-vs-other_
 * Gerrit & Jenkins integration: gerit-and-jenkins_
@@ -298,6 +309,7 @@ Gerrit
 * Gerrit backup: gerrit-backup_
 * Gerrit installation: gerrit-installation_
 
+.. _using-gerrit: http://bofh.nikhef.nl/events/FOSDEM//2013/lightningtalks/Using_Gerrit_Code_Review_in_an_open_source_project.webm
 .. _gerrit-rietveld-gitosis: https://docs.google.com/document/pub?id=1JBZtCV-RW7Fkj6HU99aLnAuDC02Lx2X2ADDbtm7ZjLA
 .. _gerrit-vs-other: http://www.mediawiki.org/wiki/Git/Gerrit_evaluation#Criteria_by_which_to_judge_a_code_review_tool
 .. _gerit-and-jenkins: http://vimeo.com/20084957
