@@ -23,6 +23,13 @@ Jenkins
 .. _slides-2012: http://www.cloudbees.com/jenkins-user-conference-2012-san-francisco.cb
 .. _seven-habbits: http://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
 
+Docker
+^^^^^^
+
+* Create a Python 3 environment using Docker: python3-docker_
+
+.. _python3-docker: http://arnaudchenyensu.com/create-a-python-3-environment-using-docker/
+
 Links
 -----
 
