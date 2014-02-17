@@ -9,6 +9,12 @@ Best Practices
 
 .. _nolio-devops-bestpractices: http://blog.noliosoft.com/devops-best-practice-tips-part-one/
 
+What is DevOps
+--------------
+
+* DevOps in Straight English: devops-straight-english_
+
+.. _devops-straight-english: http://developerblog.redhat.com/2014/01/15/devops-in-straight-english-part-1-of-2/?goback=%2Egde_4200099_member_5832195315742048256#%21
 
 Articles
 --------
