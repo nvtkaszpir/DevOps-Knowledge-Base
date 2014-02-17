@@ -18,7 +18,6 @@ SCM and CM Industry Standards
 * STANAG 4427 Allied Configuration Management Publications
 * MIL-HDBK-61A(SE)
 * ECSS-M-ST-40C -- ESA (European Space Agency) -- Aerospace Industry
-* Mil-HDBK-61A
 
 
 ITIL
