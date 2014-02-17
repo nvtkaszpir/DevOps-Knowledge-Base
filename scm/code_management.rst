@@ -181,6 +181,14 @@ Git & Multiple Projects
 .. _submodules: http://git-scm.com/book/en/Git-Tools-Submodules
 
 
+Git Tools
+"""""""""
+
+* gitsh is a new way to use Git: gitsh_
+
+.. _gitsh: http://robots.thoughtbot.com/announcing-gitsh
+
+
 Online Tutorials
 """"""""""""""""
 
