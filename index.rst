@@ -51,6 +51,7 @@ Other SCM Resources
    other/video
    other/magazines
    other/fun
+   other/motivation
    
 Education
 =========
