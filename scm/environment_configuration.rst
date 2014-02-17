@@ -19,12 +19,21 @@ Salt is an open source tool to manage your infrastructure. Easy enough to get ru
 
 * Home Page: salt-homepage_
 * Salt to the Rescue: salt-to-the-rescue_
+
+.. _salt-homepage: http://saltstack.org/
+.. _salt-to-the-rescue: http://www.lecloud.net/post/29325359938/salt-to-the-rescue
+
+Salt Tutorials
+^^^^^^^^^^^^^^
+
+* Salt targeting: salt-targeting_
+* Salt states: salt-states_
 * Getting started with Salt: getting-started-salt_
 * Deploying Django with Saltstack: sjango-with-salt_
 * Tutorial: salt-tutorial_
 
-.. _salt-homepage: http://saltstack.org/
-.. _salt-to-the-rescue: http://www.lecloud.net/post/29325359938/salt-to-the-rescue
+.. _salt-targeting: http://www.wekanban.com/saltstack-targeting-minion-part-1/
+.. _salt-states: http://www.wekanban.com/salt-states/
 .. _getting-started-salt: http://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python
 .. _django-with-salt: http://www.barrymorrison.com/2013/Mar/11/deploying-django-with-salt-stack/
 .. _salt-tutorial: http://27escape.blogspot.be/2013/08/basic-salt-tutorial.html
