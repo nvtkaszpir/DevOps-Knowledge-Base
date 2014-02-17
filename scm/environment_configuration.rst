@@ -26,12 +26,14 @@ Salt is an open source tool to manage your infrastructure. Easy enough to get ru
 Salt Tutorials
 ^^^^^^^^^^^^^^
 
+* Salt and OpenERP Tutorial: salt-openerp_
 * Salt targeting: salt-targeting_
 * Salt states: salt-states_
 * Getting started with Salt: getting-started-salt_
 * Deploying Django with Saltstack: sjango-with-salt_
 * Tutorial: salt-tutorial_
 
+.. _salt-openerp: http://blog.warehouseman.com/2014/02/step-00-handbook-for-devops-for-openerp.html
 .. _salt-targeting: http://www.wekanban.com/saltstack-targeting-minion-part-1/
 .. _salt-states: http://www.wekanban.com/salt-states/
 .. _getting-started-salt: http://www.linuxjournal.com/content/getting-started-salt-stack-other-configuration-management-system-built-python
