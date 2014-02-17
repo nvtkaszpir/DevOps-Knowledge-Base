@@ -1,6 +1,8 @@
 SCM Knowledge Base
 ==================
 
-SCM &amp; DevOps Knowledge Base: http://scm-knowledge-base.readthedocs.org
+This knowledge base includes topics of: Software Configuration Management, Infrastructure Orchestration and DevOps.
+
+http://scm-knowledge-base.readthedocs.org
 
 
