@@ -7,8 +7,8 @@ SCM Generic Topics
 .. _scm-vs-hcm: http://www.cmcrossroads.com/article/what-real-difference-between-software-configuration-management-and-hardware-configuration
 
 
-Industry Standards
-------------------
+SCM and CM Industry Standards
+-----------------------------
 
 * EIA 649-A National Consensus Standard for Configuration Management
 * IEEE Std 1042-1987 Guide to Software Configuration Management
