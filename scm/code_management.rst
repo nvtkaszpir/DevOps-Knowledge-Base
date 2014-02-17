@@ -17,8 +17,10 @@ Common Problems
 Choosing VCS System
 ^^^^^^^^^^^^^^^^^^^
 
+* 2013: A Year of Open Source at Facebook: open-source-facebook_
 * The Open Source Wave in SCM: open-source-wave_
 
+.. _open-source-facebook: https://code.facebook.com/posts/604847252884576/2013-a-year-of-open-source-at-facebook/
 .. _open-source-wave: http://blogs.wandisco.com/2013/12/20/open-source-wave-scm/
 
 Branching
