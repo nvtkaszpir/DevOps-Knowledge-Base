@@ -444,3 +444,52 @@ Resources
 * Code managemetn in Facebook: code-management-facebook_
 
 .. _code-management-facebook: http://www.youtube.com/watch?v=SinsSahmjl4#t=33m10s
+
+Software Development KPIs
+-------------------------
+
+
+Development KPIs
+
+* Lines of code per developer
+* Build test failures 
+* Unit test failures 
+* Number of bugs found in their code 
+* Number of bugs fixed 
+* Actual time to finish a task based against their own estimate 
+* Number of developers and commits by organization, site or country (Bangalore, Brugge)
+* Number of revisions merged per contributor
+* Number of revisions abandoned per contributor
+* Number of revisions merged per organization, site, country
+* Number of revisions abandoned per organization, site, country
+* Ratios merged/abandoned
+* Number of new contributors with 1 / 2-5 / 6+ changes submitted in the past 3 months
+* Number of contributors stopping contributing or decreasing continuously in the past 3 months.
+
+Gerrit KPIs
+
+* Number of Code review comments 
+* Average time spent on Code Review
+* Number of commits reviewed in <2 days, <1 week, <1 month, <3 months, >3 months or unreviewed
+* Code Review queue size
+* How many new users registered (per day, per month, per year)
+
+SCM Team KPIs
+
+* Time to set up an environment
+* Time from change request to release
+* Mean time to resolution
+
+JIRA Related KPIs:
+
+* Average time for an accepted bug report between bug creation date and PATCH_TO_REVIEW status being set
+* Average time for an accepted bug report between PATCH_TO_REVIEW status being set and RESOLVED FIXED status being set.
+* Average time for an accepted bug report between bug creation date and first comment by not the reporter her/himself.
+
+Deployment KPIs:
+
+* Speed of deployment
+* Deployment success rate
+* How quickly service can be restored after a failed deployment
+
+
