@@ -14,8 +14,15 @@ Best Practices
 Common Problems
 ---------------
 
+Choosing VCS System
+^^^^^^^^^^^^^^^^^^^
+
+* The Open Source Wave in SCM: open-source-wave_
+
+.. _open-source-wave: http://blogs.wandisco.com/2013/12/20/open-source-wave-scm/
+
 Branching
----------
+^^^^^^^^^
 
 * Branching Patterns for Parallel Software Development: branching-bradapp_
 
