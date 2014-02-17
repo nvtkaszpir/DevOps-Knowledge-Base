@@ -35,7 +35,7 @@ Articles
 --------
 
 * 10 Things We Forgot to Monitor: 10-things-to-monitor_
-* What we learnt talking to 60 companies about monitoring: what-we-learn_
+* What we learnt talking to 60 companies about monitoring: what-we-learnt_
 
 .. _10-things-to-monitor: http://word.bitly.com/post/74839060954/ten-things-to-monitor
 .. _what-we-learnt: http://blog.dataloop.io/2014/01/30/what-we-learnt-talking-to-60-companies-about-monitoring/
