@@ -22,6 +22,15 @@ Statuspage
 
 .. _statuspage-homepage:  https://www.statuspage.io/
 
+
+Nagios
+^^^^^^
+
+* Stop using Nagios - Andy Sykes: stop-using-nagios1_ + stop-using-nagios2_
+
+.. _stop-using-nagios1: https://www.youtube.com/watch?v=Q9BagdHGopg
+.. _stop-using-nagios2: http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully
+
 Examples
 --------
 
