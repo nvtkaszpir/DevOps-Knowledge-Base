@@ -9,8 +9,8 @@ Best Practices
 2. Communication of configuration changes
 
 
-Automation Tools
-----------------
+Frameworks
+----------
 
 Salt Stack
 ^^^^^^^^^^
@@ -115,3 +115,9 @@ It turns out, that about the same time I did look around, a new alternative was 
 
 .. _look-at-ansible: http://www.lexicallyscoped.com/2013/03/17/ansible.html
 
+Chef
+^^^^
+
+* Using Test Doubles in ChefSpec: stubs-and-doubles_
+
+.. _stubs-and-doubles: http://www.agilesysadmin.net/stubs-and-doubles-in-chefspec
