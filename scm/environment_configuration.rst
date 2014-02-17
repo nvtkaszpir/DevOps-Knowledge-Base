@@ -147,3 +147,10 @@ Network
 
 * Automation for Network Engineers: automation-for-network_
 .. _automation-for-network: http://packetpushers.net/show-176-intro-to-python-automation-for-network-engineers/
+
+Scaling
+-------
+
+* Autoscaling Best Practices: autoscaling-best-practices_
+
+.. _autoscaling-best-practices: http://www.slideshare.net/lynxmanuk/autoscaling-best-practices
