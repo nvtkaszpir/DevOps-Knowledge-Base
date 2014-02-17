@@ -9,6 +9,14 @@ Best Practices
 
 .. _nolio-devops-bestpractices: http://blog.noliosoft.com/devops-best-practice-tips-part-one/
 
+
+Articles
+--------
+
+* What if Everything We’ve Been Doing is Wrong? everything-is-wrong_
+
+.. _everything-is-wrong: http://goatcan.wordpress.com/2014/02/12/what-if-everything-weve-been-doing-is-wrong/
+
 DevOps and Microsoft
 --------------------
 
