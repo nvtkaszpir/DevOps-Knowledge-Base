@@ -3,9 +3,9 @@ SCM Generic Topics
 ==================
 
 * Difference between Software Configuration Management and Hardware Configuration Management: scm-vs-hcm_
-
+* Streamlining Build Processes and Configuration Management: streamlining-scm_
 .. _scm-vs-hcm: http://www.cmcrossroads.com/article/what-real-difference-between-software-configuration-management-and-hardware-configuration
-
+.. _streamlining-scm: http://www.cmcrossroads.com/article/streamlining-build-processes-and-configuration-management-truly-agile-organizations
 
 SCM and CM Industry Standards
 -----------------------------
