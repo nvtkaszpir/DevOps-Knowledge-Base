@@ -135,6 +135,13 @@ Chef
 
 .. _stubs-and-doubles: http://www.agilesysadmin.net/stubs-and-doubles-in-chefspec
 
+Rundeck
+^^^^^^^
+
+Rundeck Homepage: rundeck-homepage_
+
+.. _rundeck-homepage: http://rundeck.org/
+
 Network
 -------
 
