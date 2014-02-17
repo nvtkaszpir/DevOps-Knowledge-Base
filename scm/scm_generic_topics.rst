@@ -6,6 +6,21 @@ SCM Generic Topics
 
 .. _scm-vs-hcm: http://www.cmcrossroads.com/article/what-real-difference-between-software-configuration-management-and-hardware-configuration
 
+
+Industry Standards
+------------------
+
+* EIA 649-A National Consensus Standard for Configuration Management
+* IEEE Std 1042-1987 Guide to Software Configuration Management
+* IEEE Std-828-1990 Standard for software CM Plans
+* ISO 10007 Quality management systems -- Guidelines for configuration management
+* STANAG 4159 NATO Materiel Configuration Management Policy and Procedures for Multinational Joint Projects
+* STANAG 4427 Allied Configuration Management Publications
+* MIL-HDBK-61A(SE)
+* ECSS-M-ST-40C -- ESA (European Space Agency) -- Aerospace Industry
+* Mil-HDBK-61A
+
+
 ITIL
 ----
 
