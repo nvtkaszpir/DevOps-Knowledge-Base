@@ -121,3 +121,9 @@ Chef
 * Using Test Doubles in ChefSpec: stubs-and-doubles_
 
 .. _stubs-and-doubles: http://www.agilesysadmin.net/stubs-and-doubles-in-chefspec
+
+Network
+-------
+
+* Automation for Network Engineers: automation-for-network_
+.. _automation-for-network: http://packetpushers.net/show-176-intro-to-python-automation-for-network-engineers/
