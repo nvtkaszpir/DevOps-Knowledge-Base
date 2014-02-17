@@ -147,7 +147,7 @@ Git Propaganda
 * Bitbucket announces Git support: bitbucket-announces-git_
 * CodePlex: codeplex-announces-git_
 
-.. _github-10-milion: 10 Million Repositories: https://github.com/blog/1724-10-million-repositories
+.. _github-10-milion: https://github.com/blog/1724-10-million-repositories
 .. _microsoft-announces-git: http://techcrunch.com/2013/01/30/microsoft-announces-git-support-for-visual-studio-team-foundation-server-and-service/
 .. _google-announces-git: http://googlecode.blogspot.de/2011/08/announcing-git-support-for-google-code.html
 .. _bitbucket-announces-git: http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/
