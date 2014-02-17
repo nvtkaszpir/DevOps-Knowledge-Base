@@ -57,6 +57,10 @@ Vagrant Homepage: vagrant-homepage_
 
 .. _vagrant-homepage: http://www.vagrantup.com/
 
+* Vagrant with OpenDaylight: vagrant-with-opendaylight_
+
+.. _vagrant-with-opendaylight: http://fredhsu.wordpress.com/2013/11/04/vagrant-with-opendaylight/
+
 Puppet
 ^^^^^^
 
