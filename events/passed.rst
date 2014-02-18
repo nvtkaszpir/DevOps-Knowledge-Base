@@ -32,4 +32,4 @@ Recordings
 
 * FOSDEM Configuration Management: fosdem-2014_
 
-.. _fosdem-2014: http://ftp.osuosl.org/pub/fosdem//2014/H1309_Van_Rijn/Saturday/Introduction_to_Docker.webm
+.. _fosdem-2014: http://ftp.osuosl.org/pub/fosdem//2014/H1309_Van_Rijn/Saturday/
