@@ -22,3 +22,14 @@ Reports
 * Subversion Live London 2012: subversion-live-london_
 
 .. _subversion-live-london: http://blogs.wandisco.com/2012/10/25/svnliveday2/
+
+
+Recordings
+----------
+
+2014
+^^^^
+
+* FOSDEM Configuration Management: fosdem-2014_
+
+.. _fosdem-2014: http://ftp.osuosl.org/pub/fosdem//2014/H1309_Van_Rijn/Saturday/Introduction_to_Docker.webm
