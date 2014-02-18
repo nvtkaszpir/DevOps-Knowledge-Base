@@ -1,6 +1,6 @@
-========
-Upcoming
-========
+===============
+Upcoming Events
+===============
 
 * PIPELINE - The Continuous Delivery Conference: pipelineconf_
 * Real Agile Delivery with DevOps: qconlondon_
