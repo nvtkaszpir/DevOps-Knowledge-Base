@@ -24,3 +24,4 @@ DevOps Reactions
 * http://devopsreactions.tumblr.com/post/52530748070/merging-your-own-pull-request
 * http://devopsreactions.tumblr.com/post/71835012718/hot-fixing-live-environment
 * http://devopsreactions.tumblr.com/post/72651016161/realizing-i-ran-the-command-on-the-wrong-server
+* http://devopsreactions.tumblr.com/post/77162384009/setting-up-new-host-with-puppet-or-chef
