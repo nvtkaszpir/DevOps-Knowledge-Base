@@ -73,11 +73,14 @@ For every Distributed Version Control System (DVCS) creating a workspace operati
 VCS/DVCS Migrations
 ^^^^^^^^^^^^^^^^^^^
 
+
+* Choosing the right Git hosting service: choosing-git-hosting_
 * Use Git even if your team doesn’t: git-svn tips and tricks: git-svn-tips-and-tricks_
 * Migrating a large codebase to Git with Atlassian Stash: atlassian-svn-to-git_
 * Eight key points to consider: clearvision-migrations_
 * Django migration to Github: django-github-migration_
 
+.. _choosing-git-hosting: http://www.tikalk.com/alm/choosing-git-hosting-service-guidelines-choosing-right-one
 .. _git-svn-tips-and-tricks: http://blogs.atlassian.com/2013/12/git-svn-tips-and-tricks/
 .. _atlassian-svn-to-git: http://blogs.atlassian.com/2014/02/migrating-codebase-svn-to-git-with-stash/
 .. _clearvision-migrations: http://www.clearvision-cm.com/blog/migrating-your-scm-tool-8-key-points-to-consider-2/
