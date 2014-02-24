@@ -21,8 +21,15 @@ Reports
 
 * Subversion Live London 2012: subversion-live-london_
 
+
 .. _subversion-live-london: http://blogs.wandisco.com/2012/10/25/svnliveday2/
 
+2013
+^^^^
+
+* DevOps Days Vancouver 2013 Retrospective: devopsdays-vancouver-2013_
+
+.. _devopsdays-vancouver-2013: http://www.activestate.com/blog/2013/11/devops-days-vancouver-2013-retrospective
 
 Recordings
 ----------
