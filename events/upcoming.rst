@@ -2,11 +2,11 @@
 Upcoming Events
 ===============
 
+* DevOps Summit: devops-summit_
 * PIPELINE - The Continuous Delivery Conference: pipelineconf_
 * Real Agile Delivery with DevOps: qconlondon_
 * Wandisco - Subversion and Git Live 2014: wandisco-live_
 * Software craftmaship matters: craftmaship-matters_
-* DevOps Summit: devops-summit_
 
 .. _devops-summit: http://www.devopssummit.com/programme.php
 .. _pipelineconf: http://web.pipelineconf.info/schedule/
