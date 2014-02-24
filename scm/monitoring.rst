@@ -76,9 +76,12 @@ Nagios
 ^^^^^^
 
 * Stop using Nagios - Andy Sykes: stop-using-nagios1_ + stop-using-nagios2_
-
 .. _stop-using-nagios1: https://www.youtube.com/watch?v=Q9BagdHGopg
 .. _stop-using-nagios2: http://www.slideshare.net/superdupersheep/stop-using-nagios-so-it-can-die-peacefully
+* Nagios is not the problem: keep-using-nagios1_ + keep-using-nagios2_
+.. _keep-using-nagios1: https://laur.ie/blog/2014/02/why-ill-be-letting-nagios-live-on-a-bit-longer-thank-you-very-much/
+.. _keep-using-nagios2: http://www.skeptech.org/blog/2013/09/08/number-monitoringsucksless-an-anti-rant/
+
 
 Articles
 --------
@@ -88,6 +91,12 @@ Articles
 
 .. _10-things-to-monitor: http://word.bitly.com/post/74839060954/ten-things-to-monitor
 .. _what-we-learnt: http://blog.dataloop.io/2014/01/30/what-we-learnt-talking-to-60-companies-about-monitoring/
+
+Books
+--------
+* Nagios\: Building Enterprise-Grade Monitoring Infrastructures: josephsen-nagios-monitoring_
+
+.. _josephsen-nagios-monitoring: http://www.amazon.com/Nagios-Building-Enterprise-Grade-Monitoring-Infrastructures/dp/013313573X
 
 Examples
 --------
