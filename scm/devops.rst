@@ -29,6 +29,15 @@ DevOps and Microsoft
 .. _devops-microsoft: http://www.slideshare.net/chanezon/devops-the-microsoft-way
 
 
+Break down the silos
+--------------------
+
+* Destruction of silos is all the rage in DevOps: destruction-of-silos
+* The leaning of life - History of the Silos: leaning-life-silos
+
+.. _destruction-of-silos: http://goatcan.wordpress.com/2014/02/19/you-build-kingdoms-because-your-mother-didnt-love-you/
+.. _leaning-life-silos: http://agile.dzone.com/news/leaning-life-history-silos
+
 Links
 -----
 
