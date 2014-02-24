@@ -11,8 +11,10 @@ What is DevOps
 --------------
 
 * DevOps in Straight English: devops-straight-english_
+* DevOps: Can we automate our way to Business and IT Alignment?: devops-flickr_
 
 .. _devops-straight-english: http://developerblog.redhat.com/2014/01/15/devops-in-straight-english-part-1-of-2/?goback=%2Egde_4200099_member_5832195315742048256#%21
+.. _devops-flickr: http://www.dayshaconsulting.com/devops-can-we-automate-business-and-it-alignment/
 
 Articles
 --------
