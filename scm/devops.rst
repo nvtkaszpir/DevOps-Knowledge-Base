@@ -18,8 +18,11 @@ Articles
 --------
 
 * What if Everything We’ve Been Doing is Wrong? everything-is-wrong_
+* DevOps: Self-Service: devops-self-service_
 
 .. _everything-is-wrong: http://goatcan.wordpress.com/2014/02/12/what-if-everything-weve-been-doing-is-wrong/
+.. _devops-self-service: http://www.activestate.com/blog/2014/02/devops-self-service
+
 
 DevOps and Microsoft
 --------------------
