@@ -28,6 +28,15 @@ DevOps and Microsoft
 
 .. _devops-microsoft: http://www.slideshare.net/chanezon/devops-the-microsoft-way
 
+Containerization
+----------------
+
+LXC
+^^^
+
+* Userspace tools for the Linux kernel containers: lxc-homepage_
+
+.. _lxc-homepage: http://linuxcontainers.org/news/
 
 Break down the silos
 --------------------
