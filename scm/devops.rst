@@ -50,6 +50,13 @@ Break down the silos
 .. _destruction-of-silos: http://goatcan.wordpress.com/2014/02/19/you-build-kingdoms-because-your-mother-didnt-love-you/
 .. _leaning-life-silos: http://agile.dzone.com/news/leaning-life-history-silos
 
+DevOps History
+--------------
+
+* DevOps History: devops-history_
+
+.. _devops-history: http://itrevolution.com/the-history-of-devops/
+
 Links
 -----
 
