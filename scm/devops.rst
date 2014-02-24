@@ -5,9 +5,7 @@ DevOps
 Best Practices
 --------------
 
-* By Noliosoft: nolio-devops-bestpractices_
 
-.. _nolio-devops-bestpractices: http://blog.noliosoft.com/devops-best-practice-tips-part-one/
 
 What is DevOps
 --------------
