@@ -99,7 +99,7 @@ Fabric is a Python (2.5 or higher) library and command-line tool for streamlinin
 
 Fabric Homepage: fabric-homepage_
 
-.._fabric-homepage: http://docs.fabfile.org/en/1.5/
+.. _fabric-homepage: http://docs.fabfile.org/en/1.5/
 
 Ubuntu's juju
 ^^^^^^^^^^^^^
