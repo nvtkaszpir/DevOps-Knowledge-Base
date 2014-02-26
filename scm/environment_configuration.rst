@@ -77,7 +77,7 @@ Puppet
 
 Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
 
-Puppet Homepage: 
+Puppet Homepage: puppet-homepage_
 
 .. _puppet-homepage: http://puppetlabs.com/
 
@@ -147,7 +147,10 @@ Rundeck Homepage: rundeck-homepage_
 Network
 -------
 
+* Cisco - Image Hosting Service Implements Flexible Cloud Infrastructure: cisco-salt_
 * Automation for Network Engineers: automation-for-network_
+
+.. _cisco-salt: http://www.cisco.com/c/dam/en/us/solutions/collateral/switches/catalyst-6500-series-switches/photobucket_external_casestudy.pdf
 .. _automation-for-network: http://packetpushers.net/show-176-intro-to-python-automation-for-network-engineers/
 
 Scaling
