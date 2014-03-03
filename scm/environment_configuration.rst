@@ -77,9 +77,12 @@ Puppet
 
 Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to patch management and compliance. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
 
-Puppet Homepage: puppet-homepage_
+* Puppet Homepage: puppet-homepage_
+* Testing Puppet's custom facts with RSpec: puppet-rspec_
 
 .. _puppet-homepage: http://puppetlabs.com/
+.. _puppet-rspec: http://unethicalblogger.com/2014/03/01/testing-custom-facts-with-rspec.html
+
 
 Capistrano
 ^^^^^^^^^^
