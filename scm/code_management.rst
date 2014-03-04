@@ -164,6 +164,7 @@ Tools and Plugins
 Git Propaganda
 """"""""""""""
 
+* Why Git? why-git_
 * GitHub: 10 Million Repositories: github-10-milion_
 * Microsoft announces Git support: microsoft-announces-git_
 * Google announces Git support: google-announces-git_
