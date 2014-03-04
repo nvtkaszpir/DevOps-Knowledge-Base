@@ -26,7 +26,7 @@ Software Configuration Management
    scm/code_management
    scm/build_management
    scm/change_control
-   scm/environment_configuration
+   scm/infrastructure_orchestration
    scm/release_management
    scm/deployment_management
    scm/continuous_integration
