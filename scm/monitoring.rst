@@ -83,6 +83,15 @@ Nagios
 .. _keep-using-nagios2: http://www.skeptech.org/blog/2013/09/08/number-monitoringsucksless-an-anti-rant/
 
 
+Cacti
+^^^^^
+
+Cacti is a complete network graphing solution designed to harness the power of RRDTool's data storage and graphing functionality.
+
+* Cacti Homepage: cacti-comepage_
+
+.. _cacti-comepage:  http://www.cacti.net/
+
 Articles
 --------
 
