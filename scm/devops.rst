@@ -22,9 +22,11 @@ What is DevOps
 Articles
 --------
 
+* DevOps Kata - Single Line of Code: devops-kata_
 * What if Everything We’ve Been Doing is Wrong? everything-is-wrong_
 * DevOps: Self-Service: devops-self-service_
 
+.. _devops-kata: http://www.devopsy.com/blog/2013/08/16/devops-kata-single-line-of-code/
 .. _everything-is-wrong: http://goatcan.wordpress.com/2014/02/12/what-if-everything-weve-been-doing-is-wrong/
 .. _devops-self-service: http://www.activestate.com/blog/2014/02/devops-self-service
 
