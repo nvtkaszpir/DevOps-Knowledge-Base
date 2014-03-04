@@ -17,9 +17,11 @@ Common Problems
 Choosing VCS System
 ^^^^^^^^^^^^^^^^^^^
 
+* Why Git? why-git_
 * 2013: A Year of Open Source at Facebook: open-source-facebook_
 * The Open Source Wave in SCM: open-source-wave_
 
+.. _why-git: http://gitgear.com/why_git/SCM_Ranking_2013Q3_F1.pdf
 .. _open-source-facebook: https://code.facebook.com/posts/604847252884576/2013-a-year-of-open-source-at-facebook/
 .. _open-source-wave: http://blogs.wandisco.com/2013/12/20/open-source-wave-scm/
 
@@ -124,6 +126,7 @@ Centralized VS Distributed
 Git, Mercurial and Bazaar domination
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+* Why Git? why-git_
 * Clearvision: clearvision-dvcs_
 * RedMonk: redmonk-dvcs_
 * Ian Skerrett: ianskerrett-dvcs_
