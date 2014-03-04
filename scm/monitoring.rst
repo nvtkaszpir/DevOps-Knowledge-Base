@@ -115,8 +115,8 @@ Examples
 * Heroku Statuspage: heroku-statuspage_
 * Travis Statuspage: travis-statuspage_
 
-.. _github-statuspage-blog:  https://github.com/blog/1240-new-status-site
-.. _github-statuspage:https://status.github.com/
+.. _github-statuspage-blog: https://github.com/blog/1240-new-status-site
+.. _github-statuspage: https://status.github.com/
 .. _heroku-statuspage: https://status.heroku.com/
 .. _travis-statuspage: http://status.travis-ci.com/
 
