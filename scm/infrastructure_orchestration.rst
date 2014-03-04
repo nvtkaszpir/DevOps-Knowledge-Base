@@ -1,6 +1,8 @@
-=========================
-Environment Configuration
-=========================
+============================
+Infrastructure Orchestration
+============================
+
+The concept of Infrastructure Orchestration was previously known as Environment Configuration. Many people and organizations are still using the old name, but for purpose of this SCM Knowledge Base We will stick with the newest trend as it is getting more and more popular with every month.
 
 Best Practices
 --------------
