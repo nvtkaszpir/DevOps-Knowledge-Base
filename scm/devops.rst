@@ -41,6 +41,10 @@ DevOps and Microsoft
 Containerization
 ----------------
 
+* Using Containers for Continuous Deployment: using-cointainers_
+
+.. _using-cointainers: http://www.cmcrossroads.com/article/using-containers-continuous-deployment
+
 LXC
 ^^^
 
