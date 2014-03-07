@@ -415,6 +415,10 @@ Perforce
 Code Review
 ^^^^^^^^^^^
 
+* Every team needs kick-ass code reviews: jira-code-reviews_
+
+.. _jira-code-reviews: http://blogs.atlassian.com/2014/03/every-team-needs-kick-ass-code-reviews/
+
 Phabricator
 """""""""""
 
