@@ -22,10 +22,14 @@ What is DevOps
 Articles
 --------
 
+* The DevOps Movement fits perfectly with ITSM: devops-itsm_
+* Red Hat IT Begins Its DevOps Journey: redhat-devops_
 * DevOps Kata - Single Line of Code: devops-kata_
 * What if Everything We’ve Been Doing is Wrong? everything-is-wrong_
 * DevOps: Self-Service: devops-self-service_
 
+.. _devops-itsm: http://www.theitsmreview.com/2014/03/trust-devops-movement-fits-perfectly-itsm/
+.. _redhat-devops: http://developerblog.redhat.com/2013/12/10/red-hat-begins-devops-journey/
 .. _devops-kata: http://www.devopsy.com/blog/2013/08/16/devops-kata-single-line-of-code/
 .. _everything-is-wrong: http://goatcan.wordpress.com/2014/02/12/what-if-everything-weve-been-doing-is-wrong/
 .. _devops-self-service: http://www.activestate.com/blog/2014/02/devops-self-service
