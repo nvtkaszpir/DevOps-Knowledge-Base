@@ -308,6 +308,7 @@ Git and Android
 Gerrit
 ^^^^^^
 
+* Code reviews and bad habits: code-reviews-bad-habits_ and code-reviews-bad-habits-discussion_
 * FOSDEM: Using Gerrit Code Review: using-gerrit_
 * Gerrit vs Rietveld and Gitosis: gerrit-rietveld-gitosis_
 * Gerrit vs other Git servers: gerrit-vs-other_
@@ -316,6 +317,8 @@ Gerrit
 * Gerrit backup: gerrit-backup_
 * Gerrit installation: gerrit-installation_
 
+.. _code-reviews-bad-habits: http://bitquabit.com/post/code-reviews-and-bad-habits/
+.. _code-reviews-bad-habits-discussion: https://plus.google.com/111049168280159033135/posts/Bhv7yXt6BhU
 .. _using-gerrit: http://bofh.nikhef.nl/events/FOSDEM//2013/lightningtalks/Using_Gerrit_Code_Review_in_an_open_source_project.webm
 .. _gerrit-rietveld-gitosis: https://docs.google.com/document/pub?id=1JBZtCV-RW7Fkj6HU99aLnAuDC02Lx2X2ADDbtm7ZjLA
 .. _gerrit-vs-other: http://www.mediawiki.org/wiki/Git/Gerrit_evaluation#Criteria_by_which_to_judge_a_code_review_tool
