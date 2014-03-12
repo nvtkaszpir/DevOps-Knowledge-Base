@@ -5,6 +5,9 @@ DevOps
 Best Practices
 --------------
 
+* DevOps = DevOps Principles + DevOps Practices: devops-principles_
+
+.. _devops-principles: http://java.dzone.com/articles/devops-devops-principles
 
 
 What is DevOps
