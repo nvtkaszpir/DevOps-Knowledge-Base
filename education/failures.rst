@@ -5,12 +5,14 @@ Failures
 Real life examples
 ------------------
 
+* GitHub: Denial of Service Attacks: github-dos_
 * Knight Capital Says Trading Glitch Cost It $440 Million: 
 * Why was Pinball removed from Windows Vista?: 
 * Recovery of broken Gerrit Repositories - Wikimedia: 
 * Chicago Traiding System shutdown: 
 * Apple: 
 
+.. _github-dos: https://github.com/blog/1796-denial-of-service-attacks
 .. _knight-capital: http://dealbook.nytimes.com/2012/08/02/knight-capital-says-trading-mishap-cost-it-440-million/
 .. _pinball-windows: http://blogs.msdn.com/b/oldnewthing/archive/2012/12/18/10378851.aspx
 .. _recovery-gerrit-wikimedia: http://blog.wikimedia.org/2012/09/07/recovery-of-broken-gerrit-repositories/
