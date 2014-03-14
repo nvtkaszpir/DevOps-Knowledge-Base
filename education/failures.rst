@@ -6,11 +6,11 @@ Real life examples
 ------------------
 
 * GitHub: Denial of Service Attacks: github-dos_
-* Knight Capital Says Trading Glitch Cost It $440 Million: 
-* Why was Pinball removed from Windows Vista?: 
-* Recovery of broken Gerrit Repositories - Wikimedia: 
-* Chicago Traiding System shutdown: 
-* Apple: 
+* Knight Capital Says Trading Glitch Cost It $440 Million: knight-capital_
+* Why was Pinball removed from Windows Vista?: pinball-windows_
+* Recovery of broken Gerrit Repositories - Wikimedia: recovery-gerrit-wikimedia_
+* Chicago Traiding System shutdown: chicago-traiding-shutdown_
+* Apple: apple_
 
 .. _github-dos: https://github.com/blog/1796-denial-of-service-attacks
 .. _knight-capital: http://dealbook.nytimes.com/2012/08/02/knight-capital-says-trading-mishap-cost-it-440-million/
