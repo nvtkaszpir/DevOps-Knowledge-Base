@@ -70,9 +70,12 @@ Vagrant Homepage: vagrant-homepage_
 
 .. _vagrant-homepage: http://www.vagrantup.com/
 
+* Vagrant 1.5 and Vagrant Cloud: vagrant-1.5_
 * Vagrant with OpenDaylight: vagrant-with-opendaylight_
 
+.. _vagrant-1.5: http://www.vagrantup.com/blog/vagrant-1-5-and-vagrant-cloud.html
 .. _vagrant-with-opendaylight: http://fredhsu.wordpress.com/2013/11/04/vagrant-with-opendaylight/
+
 
 Puppet
 ^^^^^^
