@@ -142,6 +142,16 @@ Chef
 
 .. _stubs-and-doubles: http://www.agilesysadmin.net/stubs-and-doubles-in-chefspec
 
+Nix
+^^^
+
+Nix Homepage: nix-homepage_
+
+* Why Puppet/Chef/Ansible aren't good enough: nix-vs-other_
+
+.. _nix-homepage: http://nixos.org/nix/
+.. _nix-vs-other: https://www.domenkozar.com/2014/03/11/why-puppet-chef-ansible-arent-good-enough-and-we-can-do-better/
+
 Rundeck
 ^^^^^^^
 
