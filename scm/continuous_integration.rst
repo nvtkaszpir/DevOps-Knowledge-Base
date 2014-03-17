@@ -34,6 +34,13 @@ Docker
 .. _python3-docker: http://arnaudchenyensu.com/create-a-python-3-environment-using-docker/
 .. _baseimage-docker: http://phusion.github.io/baseimage-docker/
 
+Nix
+^^^
+
+* Nix is a purely functional package manager: nix-homepage_
+
+.. _nix-homepage: http://nixos.org/nix/
+
 Links
 -----
 
