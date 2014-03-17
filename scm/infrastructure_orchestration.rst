@@ -155,6 +155,14 @@ Nix Homepage: nix-homepage_
 .. _nix-homepage: http://nixos.org/nix/
 .. _nix-vs-other: https://www.domenkozar.com/2014/03/11/why-puppet-chef-ansible-arent-good-enough-and-we-can-do-better/
 
+Gunnery
+^^^^^^^
+
+Gunnery is multipurpose task execution tool for distributed systems: gunnery-homepage_
+
+.. _gunnery-homepage: http://eyjafjallajokull.github.io/gunnery
+
+
 Rundeck
 ^^^^^^^
 
