@@ -32,6 +32,9 @@ Buddha Wiki: http://www.bitbull.ch/wiki/index.php/Hauptseite
 Virtualization
 --------------
 
+
+* Apache Mesos - cluster manager: mesos-homepage_
 * OSv is a new open-source operating system for virtual-machines: osv-homepage_
 
 .. _osv-homepage: https://github.com/cloudius-systems/osv
+.. _mesos-homepage: http://mesos.apache.org/
