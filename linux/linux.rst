@@ -27,3 +27,11 @@ Howtos/Tutorials
 Aliens Bash Tutorial: http://www.subsignal.org/doc/AliensBashTutorial.html
 
 Buddha Wiki: http://www.bitbull.ch/wiki/index.php/Hauptseite
+
+
+Virtualization
+--------------
+
+* OSv is a new open-source operating system for virtual-machines: osv-homepage_
+
+.. _osv-homepage: https://github.com/cloudius-systems/osv
