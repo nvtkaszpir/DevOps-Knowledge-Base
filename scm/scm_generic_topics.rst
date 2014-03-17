@@ -28,3 +28,9 @@ ITIL
 .. _fix-change-not-itil: http://www.itskeptic.org/content/fix-change-not-itil
 
 
+SCM Frameworks
+--------------
+
+* BOSH is a Cloud Foundry project for release engineering, deployment, and lifecycle managemen: bosh-homepage_
+
+.. _bosh-homepage: http://bosh.cfapps.io/
