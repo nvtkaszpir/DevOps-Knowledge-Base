@@ -46,7 +46,7 @@ Usage Examples
 """"""""""""""
 
 * Salt and XMPP integartion: salt-and-xmpp_
-* Salt and Continuous Deployment: salt-cntinuous-deployment_
+* Salt and Continuous Deployment: salt-continuous-deployment_
 
 .. _salt-and-xmpp: http://hveem.no/salt-xmpp-gateway
 .. _salt-continuous-deployment: https://rudd-o.com/linux-and-free-software/heard-of-the-salt-stack-or-the-go-programming-language
