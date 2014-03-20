@@ -21,6 +21,8 @@ Pytest Introduction: http://pythontesting.net/framework/pytest-introduction/
 Tutorials
 ---------
 
+Distributing a Python command line application: http://gehrcke.de/2014/02/distributing-a-python-command-line-application
+
 Advanced Python: http://scipy-lectures.github.com/advanced/advanced_python/index.html
 
 Python Shortcuts for the Begginer: http://maxburstein.com/blog/python-shortcuts-for-the-python-beginner
