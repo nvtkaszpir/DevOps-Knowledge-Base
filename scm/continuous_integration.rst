@@ -25,11 +25,12 @@ Jenkins
 
 Docker
 ^^^^^^
-
+* Docker as a framework for your DevOps culture: docker-as-framework_
 * Docker Homepage: docker-homepage_
 * Create a Python 3 environment using Docker: python3-docker_
 * So you're building a Docker image. What might be wrong with it? baseimage-docker_
 
+.. _docker-as-framework: http://devops.com/blogs/docker-as-a-framework-for-your-devops-culture/
 .. _docker-homepage: https://github.com/dotcloud/docker
 .. _python3-docker: http://arnaudchenyensu.com/create-a-python-3-environment-using-docker/
 .. _baseimage-docker: http://phusion.github.io/baseimage-docker/
