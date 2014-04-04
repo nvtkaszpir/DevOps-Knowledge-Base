@@ -24,11 +24,14 @@ Database Patching
 DB Patching Tools
 ^^^^^^^^^^^^^^^^^
 
+ 
+* Flyway: flywaydb_
 * Maven DB Patch: maven-db-patch_
 * PostgreSQL SQL based approach: sql-based-patching_
 * Datical: datical_
 * Liquidbase: liquidbase_
 
+.. _flywaydb: http://flywaydb.org/
 .. _maven-db-patch: http://jsoftware.org/maven-dbpatch-plugin
 .. _sql-based-patching: https://github.com/depesz/Versioning
 .. _datical: http://www.datical.com/wp-content/uploads/2013/05/sexy-back-db-wp.pdf
