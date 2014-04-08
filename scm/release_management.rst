@@ -5,12 +5,14 @@ Release Management
 Articles
 --------
 
+* Stop Blaming Release Management: stop-blaming-rm_
 * So, What Is It We Do Again?: what-we-do-again_
 * Software Release Management Best Practices: release-best-bractices_ 
 * Guidelines for building monolithic release management system: release-guidelines_
 * Release Trends 2013 by XebiaLabs: release-trends-2013_
 * Ubuntu no switching to rolling releases: ubuntu-switch_
 
+.. _stop-blaming-rm: http://www.theitsmreview.com/2014/03/stop-blaming-release-management/
 .. _what-we-do-again: http://blog.fortified-bikesheds.com/2011/12/so-what-is-it-we-do-again.html
 .. _release-best-bractices: http://buildmeister.com/articles/software_release_management_best_practices
 .. _release-guidelines: http://www.cmcrossroads.com/article/guidelines-building-monolithic-release-management-system
