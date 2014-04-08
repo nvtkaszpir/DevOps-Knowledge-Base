@@ -28,10 +28,12 @@ Choosing VCS System
 Branching
 ^^^^^^^^^
 
+* Branching Models: branching-models_
 * Feature development lifecycle with Git: feature-lifecycle_
 * Simple Git workflow is simple: simple-git-worklfow_
 * Branching Patterns for Parallel Software Development: branching-bradapp_
 
+.. _branching-models: http://www.nimkar.net/index.php/9-release-management/5-version-control-branching-models
 .. _feature-lifecycle: http://blogs.atlassian.com/2014/01/feature-development-lifecycle-git-webinar-recording-now-available/
 .. _simple-git-worklfow: http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/
 .. _branching-bradapp: http://www.bradapp.com/acme/branching/
