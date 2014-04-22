@@ -55,11 +55,14 @@ Deployment KPIs
 Articles
 ^^^^^^^^
 
+* DevOps Monitoring Tools: devops-monitoring-tools_
 * 5 KPIs that Make the Case for DevOps: puppet-kpis_
 * Best practices for greater business agility: devops-bestpractices_
 
+.. _devops-monitoring-tools: http://flux7.com/blogs/glossary/devops-glossary-monitoring-toolsservices/
 .. _puppet-kpis: http://puppetlabs.com/blog/5-kpis-that-make-the-case-for-devops
 .. _devops-bestpractices: http://www.enterprisecioforum.com/en/blogs/genefa-murphy/devops-now-best-practices-greater-busine
+
 
 Tools
 -----
