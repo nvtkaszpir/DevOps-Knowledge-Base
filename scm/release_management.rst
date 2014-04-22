@@ -2,6 +2,15 @@
 Release Management
 ==================
 
+Best Practices
+--------------
+
+
+* Release Management Best Practices: release-best-practices_
+
+.. _release-best-practices: http://www.cmnogueira.pt/2014/04/03/release-deployment-management-best-practices/
+
+
 Articles
 --------
 
