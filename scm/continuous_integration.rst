@@ -2,6 +2,13 @@
 Continuous Integration
 ======================
 
+Articles
+--------
+
+* Continuous integration versus delayed integration: continuous-integration-versus_
+
+.. _continuous-integration-versus: http://java.dzone.com/articles/continuous-integration-versus
+
 Tools
 -----
 
