@@ -10,6 +10,12 @@ Best Practices
 1. Configuration treated as a Source Code
 2. Communication of configuration changes
 
+Articles
+--------
+
+* Manage Resources like a Hotel: infrastructure-like-a-hotel_
+
+.. _infrastructure-like-a-hotel: http://www.cloudsidekick.com/blog/manage-resources-like-a-hotel.html
 
 Frameworks
 ----------
