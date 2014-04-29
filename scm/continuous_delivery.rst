@@ -12,12 +12,14 @@ Tools
 Articles
 --------
 
+* Automation Trends Xebialabs: automation-trends_
 * The next Jenkins: delivery-pipeline_
 * DevOps & Continuous Delivery: The Need for Speed: the-need-for-speed_
 * DevOps Improves Time to Market -- and Revenue: devops-time-to-market_
 * Configuration Management for Continuous Delivery: cm-for-cd1_ and cm-for-cd2
 * Continuous Delivery is Mainstream: cd-mainstream_
 
+.. _automation-trends: http://go.xebialabs.com/Automation-Trends-Report-2014.html
 .. _delivery-pipeline: http://blog.vincentbrouillet.com/how-is-the-next-jenkins-looking-like-delivery-pipeline-and-cloud/
 .. _the-need-for-speed: http://blog.zend.com/2014/03/11/companies-investing-in-devops-continuous-delivery/#.U0Kj_PmSyUI
 .. _devops-time-to-market: http://java.dzone.com/articles/devops-improves-time-market
