@@ -32,20 +32,29 @@ Naming Conventions
 ------------------
 
 
-Common approach
-^^^^^^^^^^^^^^^
+Versioning
+^^^^^^^^^^
+
+Most common model:
 
 * X.0 for Major releases 
 * X.X.0 for minor releases 
 * X.X.X.0 for patches that don't include functionality updates. 
 * X.X.X.X for security and/or emergency patches.
 
-Semantic Versioning
-^^^^^^^^^^^^^^^^^^^
+Other models:
 
-Semantic Versioning 2.0.0 (semantic-versioning_)
+* Git 1.9 Versioning: git-1.9-versioning_
+* Gnome Versioning: gnome-versioning_
+* Maven Versioning: maven-versioning_
+* Semantic Versioning 2.0.0: semantic-versioning_
 
+
+.. _git-1.9-versioning: http://article.gmane.org/gmane.linux.kernel/1638649
+.. _gnome-versioning: http://www106.pair.com/rhp/parallel.html
+.. _maven-versioning: http://docs.codehaus.org/display/MAVEN/Versioning
 .. _semantic-versioning: http://semver.org/
+
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
