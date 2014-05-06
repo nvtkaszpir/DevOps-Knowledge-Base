@@ -42,6 +42,15 @@ Most common model:
 * X.X.X.0 for patches that don't include functionality updates. 
 * X.X.X.X for security and/or emergency patches.
 
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+* MAJOR version when you make incompatible API changes,
+* MINOR version when you add functionality in a backwards-compatible manner, and
+* PATCH version when you make backwards-compatible bug fixes.
+
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+
 Other models:
 
 * Git 1.9 Versioning: git-1.9-versioning_
@@ -54,15 +63,6 @@ Other models:
 .. _gnome-versioning: http://www106.pair.com/rhp/parallel.html
 .. _maven-versioning: http://docs.codehaus.org/display/MAVEN/Versioning
 .. _semantic-versioning: http://semver.org/
-
-
-Given a version number MAJOR.MINOR.PATCH, increment the:
-
-* MAJOR version when you make incompatible API changes,
-* MINOR version when you add functionality in a backwards-compatible manner, and
-* PATCH version when you make backwards-compatible bug fixes.
-
-Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
 
 Tools
