@@ -12,6 +12,7 @@ Tools
 Articles
 --------
 
+* Why should your organization automate and adopt Continuous Delivery? why-automate_
 * Automation Trends Xebialabs: automation-trends_
 * The next Jenkins: delivery-pipeline_
 * DevOps & Continuous Delivery: The Need for Speed: the-need-for-speed_
@@ -19,6 +20,7 @@ Articles
 * Configuration Management for Continuous Delivery: cm-for-cd1_ and cm-for-cd2
 * Continuous Delivery is Mainstream: cd-mainstream_
 
+.. _why-automate: http://blog.vincentbrouillet.com/why-automate-adopt-continuous-delivery/
 .. _automation-trends: http://go.xebialabs.com/Automation-Trends-Report-2014.html
 .. _delivery-pipeline: http://blog.vincentbrouillet.com/how-is-the-next-jenkins-looking-like-delivery-pipeline-and-cloud/
 .. _the-need-for-speed: http://blog.zend.com/2014/03/11/companies-investing-in-devops-continuous-delivery/#.U0Kj_PmSyUI
