@@ -20,6 +20,15 @@ Articles
 Frameworks
 ----------
 
+Comparisons
+^^^^^^^^^^^
+
+* Comparison of open-source configuration management software: wikipedia_
+* Ansible and Salt: A detailed comparison: ansible-and-salt_
+
+.. _wikipedia: http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
+.. _ansible-and-salt: https://missingm.co/2013/06/ansible-and-salt-a-detailed-comparison/
+
 Salt Stack
 ^^^^^^^^^^
 
