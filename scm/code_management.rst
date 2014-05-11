@@ -215,9 +215,10 @@ Git & Multiple Projects
 
 Git Tools
 """""""""
-
+* Building a Git Server: building-git-server_
 * gitsh is a new way to use Git: gitsh_
 
+.. _building-git-server: https://medium.com/joltem-an-open-incubator/1dfb89adca1d
 .. _gitsh: http://robots.thoughtbot.com/announcing-gitsh
 
 
