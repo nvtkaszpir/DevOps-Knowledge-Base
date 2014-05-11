@@ -25,6 +25,7 @@ What is DevOps
 Articles
 --------
 
+* Why Vagrant is the Best DevOps Tool Ever: vagrant-devops-tool_
 * How to Modify ITIL to Accommodate DevOps: itil-devops_
 * Implementing DevOps in Large Complex Organizations: An Interview with Mike Baukes: devops-large-organizations_
 * Seven Habits of Highly Effective DevOps: seven-habits_
@@ -35,6 +36,7 @@ Articles
 * What if Everything We’ve Been Doing is Wrong? everything-is-wrong_
 * DevOps: Self-Service: devops-self-service_
 
+.. _vagrant-devops-tool: http://blog.ingineering.it/post/81406512594/why-vagrant-is-the-best-devops-tool-ever
 .. _itil-devops: http://noelbruton.wordpress.com/2014/04/04/how-to-modify-itil-to-accommodate-devops/
 .. _devops-large-organizations: http://www.cmcrossroads.com/interview/implementing-devops-large-complex-organizations-interview-mike-baukes
 .. _seven-habits: http://www.serena.com/blog/2014/03/seven-habits-of-highly-effective-devops/
