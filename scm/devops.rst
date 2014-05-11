@@ -25,6 +25,7 @@ What is DevOps
 Articles
 --------
 
+* How to Modify ITIL to Accommodate DevOps: itil-devops_
 * Implementing DevOps in Large Complex Organizations: An Interview with Mike Baukes: devops-large-organizations_
 * Seven Habits of Highly Effective DevOps: seven-habits_
 * DevOps Myths: devops-myths_
@@ -34,6 +35,7 @@ Articles
 * What if Everything We’ve Been Doing is Wrong? everything-is-wrong_
 * DevOps: Self-Service: devops-self-service_
 
+.. _itil-devops: http://noelbruton.wordpress.com/2014/04/04/how-to-modify-itil-to-accommodate-devops/
 .. _devops-large-organizations: http://www.cmcrossroads.com/interview/implementing-devops-large-complex-organizations-interview-mike-baukes
 .. _seven-habits: http://www.serena.com/blog/2014/03/seven-habits-of-highly-effective-devops/
 .. _devops-myths: http://www.informationweek.com/software/enterprise-applications/busting-5-devops-myths/d/d-id/1141597
