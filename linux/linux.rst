@@ -29,8 +29,7 @@ OS Architecture
 
 Think OS is an introduction to Operating Systems for programmers: thinkos_
 
-.. _thinkos: Think OS is an introduction to Operating Systems for programmers.
-
+.. _thinkos: http://www.greenteapress.com/thinkos/index.html
 
 Howtos/Tutorials
 ----------------
