@@ -14,6 +14,13 @@ Best Practices
 Common Problems
 ---------------
 
+Pull Request VS Code Review
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* On Pull Requests: on-pull-requests_
+
+.. _on-pull-requests: http://cramer.io/2014/05/03/on-pull-requests/
+
 Choosing VCS System
 ^^^^^^^^^^^^^^^^^^^
 
