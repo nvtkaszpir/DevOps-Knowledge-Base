@@ -9,6 +9,14 @@ Best Practices
 2. Rollback process is fully automated
 3. Deployment should be unnoticed by users (invisible upgrades)
 
+
+Articles
+--------
+
+* Consider Deployment Automation to Add Business Value Faster: deployment-automation_
+
+.. _deployment-automation: http://www.cmcrossroads.com/article/consider-deployment-automation-add-business-value-faster
+
 Deployment Methodologies
 ------------------------
 
