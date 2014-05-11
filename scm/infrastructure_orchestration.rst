@@ -85,9 +85,11 @@ Vagrant Homepage: vagrant-homepage_
 
 .. _vagrant-homepage: http://www.vagrantup.com/
 
+* Why Vagrant is the Best DevOps Tool Ever: vagrant-devops-tool_
 * Vagrant 1.5 and Vagrant Cloud: vagrant-1.5_
 * Vagrant with OpenDaylight: vagrant-with-opendaylight_
 
+.. _vagrant-devops-tool: http://blog.ingineering.it/post/81406512594/why-vagrant-is-the-best-devops-tool-ever
 .. _vagrant-1.5: http://www.vagrantup.com/blog/vagrant-1-5-and-vagrant-cloud.html
 .. _vagrant-with-opendaylight: http://fredhsu.wordpress.com/2013/11/04/vagrant-with-opendaylight/
 
