@@ -5,9 +5,11 @@ Continuous Integration
 Articles
 --------
 
+* Continuous integration with travis and coveralls.io for Django apps: travis-and-django_
 * Continuous integration versus delayed integration: continuous-integration-versus_
 * Holistic view of Continuous Integration & Build: holistic-ci_
 
+.. _travis-and-django: http://agiliq.com/blog/2014/05/continuous-integration-with-travis-and-coverallsio/
 .. _continuous-integration-versus: http://java.dzone.com/articles/continuous-integration-versus
 .. _holistic-ci: http://cmforagile.blogspot.com/2010_03_01_archive.html
 
