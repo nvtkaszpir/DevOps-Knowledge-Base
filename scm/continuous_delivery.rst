@@ -12,6 +12,7 @@ Tools
 Articles
 --------
 
+* Continuous Delivery Testing: continuous-delivery-testing_
 * Practical continuous deployment: continuous-deployment_
 * Five Reasons Jenkins is not a Pipeline Orchestration Framework: jekins-is-not-orchestration-framework_
 * Why should your organization automate and adopt Continuous Delivery? why-automate_
@@ -22,6 +23,7 @@ Articles
 * Configuration Management for Continuous Delivery: cm-for-cd1_ and cm-for-cd2
 * Continuous Delivery is Mainstream: cd-mainstream_
 
+.. _continuous-delivery-testing: http://www.slideshare.net/TomasRiha/continuous-delivery-testing-hi-q
 .. _continuous-deployment: http://blogs.atlassian.com/2014/04/practical-continuous-deployment/
 .. _jekins-is-not-orchestration-framework: http://www.cloudsidekick.com/blog/stretch-armstrong.html
 .. _why-automate: http://blog.vincentbrouillet.com/why-automate-adopt-continuous-delivery/
