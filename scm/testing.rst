@@ -7,6 +7,13 @@ Best Practices
 
 1. Fail constantly to verify if all the automated failover solutions are working properly.
 
+Articles
+--------
+
+* PyGrunn: Sphinx plus Robot framework: robot-sphinx
+
+.. _robot-sphinx: http://reinout.vanrees.org/weblog/2014/05/09/robot.html
+
 Tools
 -----
 
