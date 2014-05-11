@@ -41,6 +41,8 @@ Static/Abstract methods: http://julien.danjou.info/blog/2013/guide-python-static
 Django
 ------
 
+Making a specific Django app faster: http://reinout.vanrees.org/weblog/2014/05/06/making-faster.html
+
 Understanding Test Driven Development with Django: http://arunrocks.com/understanding-tdd-with-django
 
 Starting a Django 1.4 Project the Right Way: http://www.jeffknupp.com/blog/2012/10/24/starting-a-django-14-project-the-right-way/
