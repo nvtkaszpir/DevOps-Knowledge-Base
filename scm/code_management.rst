@@ -333,9 +333,11 @@ Gerrit
 Cross Repo Dependencies
 """""""""""""""""""""""
 
+* Git and project dependencies: project-dependencies_
 * QT approach - Staging: qt-crd_
 * Gerrit contributors discussion: gerrit-crd_
 
+.. _project-dependencies: http://blogs.atlassian.com/2014/04/git-project-dependencies/
 .. _qt-crd: http://qt-project.org/wiki/Gerrit_Introduction#a08363df2815db284c1d8e68994b5522
 .. _gerrit-crd: https://groups.google.com/forum/?fromgroups=#!topic/repo-discuss/mI1l5-fesI8
 
