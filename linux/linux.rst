@@ -2,6 +2,8 @@
 Linux
 =====
 
+
+
 Scalability
 -----------
 
@@ -20,6 +22,15 @@ Usability
 ---------
 
 UX design for startups: http://uxpin.com/ux-design-for-startups.html
+
+
+OS Architecture
+---------------
+
+Think OS is an introduction to Operating Systems for programmers: thinkos_
+
+.. _thinkos: Think OS is an introduction to Operating Systems for programmers.
+
 
 Howtos/Tutorials
 ----------------
