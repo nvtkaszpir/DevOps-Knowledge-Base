@@ -10,7 +10,7 @@ Best Practices
 Articles
 --------
 
-* PyGrunn: Sphinx plus Robot framework: robot-sphinx
+* PyGrunn: Sphinx plus Robot framework: robot-sphinx_
 
 .. _robot-sphinx: http://reinout.vanrees.org/weblog/2014/05/09/robot.html
 
