@@ -158,9 +158,11 @@ Git
 Tools and Plugins
 """""""""""""""""
 
+* Doing Git Your Way: git-your-way_
 * Sexy bash prompt: sexy-bash-prompt_
 * Gittle: gittle_
 
+.. _git-your-way: http://www.clearvision-cm.com/blog/doing-git-your-way/
 .. _sexy-bash-prompt: https://github.com/twolfson/sexy-bash-prompt
 .. _gittle: https://github.com/FriendCode/gittle
 
