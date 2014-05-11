@@ -41,6 +41,8 @@ Static/Abstract methods: http://julien.danjou.info/blog/2013/guide-python-static
 Django
 ------
 
+Migrating Django projects with fixtures: http://kuttler.eu/post/django-db-utils-IntegrityError-duplicate-entry/
+
 Making a specific Django app faster: http://reinout.vanrees.org/weblog/2014/05/06/making-faster.html
 
 Understanding Test Driven Development with Django: http://arunrocks.com/understanding-tdd-with-django
