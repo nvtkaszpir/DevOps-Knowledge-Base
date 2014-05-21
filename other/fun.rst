@@ -5,9 +5,11 @@ SCM Fun
 Youtube
 -------
 
+* DevOps in a Box: devops-in-a-box_
 * Hitler uses git: hitler-git_
 * DevOps - Monty Python: devops-monty-python_
 
+.. _devops-in-a-box: http://www.youtube.com/watch?v=QNI4oDOnPuc
 .. _hitler-git: http://www.youtube.com/watch?v=CDeG4S-mJts
 .. _devops-monty-python: http://www.youtube.com/watch?v=Rls
 
