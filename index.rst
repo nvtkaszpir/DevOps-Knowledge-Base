@@ -1,15 +1,15 @@
 .. image:: images/scmforge/logo.png
    :align: right
 
-==================
-SCM Knowledge Base
-==================
+=====================
+DevOps Knowledge Base
+=====================
 
-------------------
-SCM Knowledge Base
-------------------
+---------------------
+DevOps Knowledge Base
+---------------------
 
-This knowledge base includes topics of: Software Configuration Management, Infrastructure Orchestration and DevOps
+This knowledge base includes topics of: Software Configuration Management, Continuous Delivery, Infrastructure Orchestration and DevOps
 
 --------
 Contents
