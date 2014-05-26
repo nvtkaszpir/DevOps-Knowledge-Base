@@ -63,15 +63,18 @@ Binary Files
 
 For every Distributed Version Control System (DVCS) handling (especially large) binary files is an issue. 
 
+* How to handle big repositories with git: handle-big-repositories-git_
 * Git Document Sharing: git-document-sharing_
 * Using Git to Manage the Storage and Versioning of Digital Objects richard-anderson-stanford_
 * Git & Perforce comparison: git-perforce-bin-files_
 * Linus Torvalds about big objects in Git: linus-big-objects_
 
+.. _handle-big-repositories-git: http://blogs.atlassian.com/2014/05/handle-big-repositories-git
 .. _git-document-sharing: http://blogs.wandisco.com/2013/12/23/git-document-sharing/
 .. _richard-anderson-stanford: http://www.google.pl/url?sa=t&rct=j&q=git%20large%20binary%20issue&source=web&cd=7&cad=rja&ved=0CFYQFjAG&url=http%3A%2F%2Flib.stanford.edu%2Ffiles%2FUsing-Git-to-Manage-the-Storage-and-Versioning-of-Digital-Objects.doc&ei=kNnBUZL2HI3sO4KXgJgB&usg=AFQjCNEDHSuJFY0_kaT_2r8DqoNaHtzrgQ
 .. _git-perforce-bin-files: http://osdir.com/ml/git/2009-05/msg00051.html
 .. _linus-big-objects: http://kerneltrap.org/mailarchive/git/2006/2/8/200591
+
 
 
 
