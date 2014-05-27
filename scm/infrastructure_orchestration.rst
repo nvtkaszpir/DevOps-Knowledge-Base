@@ -34,9 +34,11 @@ Salt Stack
 
 Salt is an open source tool to manage your infrastructure. Easy enough to get running in minutes and fast enough to manage tens of thousands of servers (and still get a response back in seconds). Execute arbitrary shell commands or choose from dozens of pre-built modules of common (or complex) commands. Target individual servers or groups of servers based on name, defined roles, or a variety of system information such as hardware, software, operating system, current version, current environment, and many more.
 
+* SaltStack setup on beaglebone black rev c debian arm: salt-arm_
 * Home Page: salt-homepage_
 * Salt to the Rescue: salt-to-the-rescue_
 
+.. _salt-arm: http://vmsec.wordpress.com/2014/05/25/salt-stack-setup-on-beaglebone-black-rev-c-debian-arm/
 .. _salt-homepage: http://saltstack.org/
 .. _salt-to-the-rescue: http://www.lecloud.net/post/29325359938/salt-to-the-rescue
 
