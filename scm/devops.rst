@@ -50,6 +50,13 @@ Articles
 .. _devops-self-service: http://www.activestate.com/blog/2014/02/devops-self-service
 
 
+DevOps and Robotics
+-------------------
+
+The Rules of RobotOps: robotops_
+
+* _robotops: http://robotops.com/
+
 DevOps and Microsoft
 --------------------
 
