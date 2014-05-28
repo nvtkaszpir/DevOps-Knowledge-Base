@@ -26,9 +26,11 @@ Frameworks
 Comparisons
 ^^^^^^^^^^^
 
+* Comparison Grid for Ansible / SaltStack / Chef / Puppet: comparison-grid_
 * Comparison of open-source configuration management software: wikipedia_
 * Ansible and Salt: A detailed comparison: ansible-and-salt_
 
+.. _comparison-grid: https://devopsu.com/books/Taste-Test-Quick-Look-Grid.pdf
 .. _wikipedia: http://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software
 .. _ansible-and-salt: https://missingm.co/2013/06/ansible-and-salt-a-detailed-comparison/
 
