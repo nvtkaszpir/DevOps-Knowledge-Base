@@ -53,9 +53,9 @@ Articles
 DevOps and Robotics
 -------------------
 
-The Rules of RobotOps: robotops_
+* The Rules of RobotOps: robotops_
 
-* _robotops: http://robotops.com/
+.. _robotops: http://robotops.com/
 
 DevOps and Microsoft
 --------------------
