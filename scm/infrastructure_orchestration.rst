@@ -17,6 +17,13 @@ Articles
 
 .. _infrastructure-like-a-hotel: http://www.cloudsidekick.com/blog/manage-resources-like-a-hotel.html
 
+Automation
+----------
+
+* Chicken or Egg: Abstraction and Automation: chicken-or-egg-abstraction-and_
+
+.. _chicken-or-egg-abstraction-and: http://java.dzone.com/articles/chicken-or-egg-abstraction-and
+
 Frameworks
 ----------
 
