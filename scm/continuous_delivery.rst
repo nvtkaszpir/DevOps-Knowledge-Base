@@ -38,8 +38,10 @@ Articles
 Youtube
 -------
 
+* PIPELINE - the Continuous Delivery conference: cd-conference_
 * Continuous Delivery at SAP: cd-in-sap_
 * Designing Continuous Delivery Into Your Platform by John Simone: cd-into-platform_
 
+.. _cd-conference: http://vimeo.com/channels/pipelineconf/96179728
 .. _cd-in-sap: http://www.youtube.com/watch?v=NJJdPlcCYK4
 .. _cd-into-platform: http://www.youtube.com/watch?v=a1Z2UPuLbK0
