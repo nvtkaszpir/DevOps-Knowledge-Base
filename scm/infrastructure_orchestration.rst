@@ -55,7 +55,7 @@ Salt Tutorials
 * Salt targeting: salt-targeting_
 * Salt states: salt-states_
 * Getting started with Salt: getting-started-salt_
-* Deploying Django with Saltstack: sjango-with-salt_
+* Deploying Django with Saltstack: django-with-salt_
 * Tutorial: salt-tutorial_
 
 .. _orchestrate-cloud: http://walterdalmut.com/2014/05/26/cloudparty-2014-deploy-orchestrate-infrastructures-on-cloud-providers/#more-1718
