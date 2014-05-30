@@ -10,6 +10,13 @@ Best Practices
 .. _devops-principles: http://java.dzone.com/articles/devops-devops-principles
 
 
+Propaganda
+----------
+
+* Need for DevOps is Growing: need-for-devops_
+
+.. _need-for-devops: https://pbs.twimg.com/media/Bo1S0DHCYAEW9by.jpg:large
+
 What is DevOps
 --------------
 
