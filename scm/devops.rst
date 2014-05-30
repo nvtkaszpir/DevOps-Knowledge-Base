@@ -15,7 +15,7 @@ Propaganda
 
 * Need for DevOps is Growing: need-for-devops_
 
-.. _need-for-devops: https://pbs.twimg.com/media/Bo1S0DHCYAEW9by.jpg:large
+.. _need-for-devops: http://blogs.ca.com/devops/2013/10/07/what-cnn-and-fox-news-can-teach-us-about-devops
 
 What is DevOps
 --------------
