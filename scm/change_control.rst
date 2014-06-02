@@ -2,11 +2,11 @@
 Change Control
 ==============
 
-Change Log
-----------
+Changelog
+---------
 
 * Changelog: https://github.com/prezi/changelog
-** http://engineering.prezi.com/blog/2014/05/28/changelog-a-tool-designed-to-help-you-recover-faster/
+* http://engineering.prezi.com/blog/2014/05/28/changelog-a-tool-designed-to-help-you-recover-faster/
 
 Risk
 ----
