@@ -33,12 +33,20 @@ What is DevOps
 .. _devops-flickr: http://www.dayshaconsulting.com/devops-can-we-automate-business-and-it-alignment/
 
 
+DevOps and ITIL
+---------------
+
+* DevOps and ITIL: Continuous Delivery doesn’t stop at software: devops-and-itil_
+* How to Modify ITIL to Accommodate DevOps: itil-devops_
+
+.. _devops-and-itil: http://changeandrelease.com/2014/04/05/devops-and-itil-continuous-delivery-doesnt-stop-at-software/
+.. _itil-devops: http://noelbruton.wordpress.com/2014/04/04/how-to-modify-itil-to-accommodate-devops/
+
 Articles
 --------
 
 * How 'DevOps' is Killing the Developer: devops-killing-developer_
 * Why Vagrant is the Best DevOps Tool Ever: vagrant-devops-tool_
-* How to Modify ITIL to Accommodate DevOps: itil-devops_
 * Implementing DevOps in Large Complex Organizations: An Interview with Mike Baukes: devops-large-organizations_
 * Seven Habits of Highly Effective DevOps: seven-habits_
 * DevOps Myths: devops-myths_
@@ -50,7 +58,6 @@ Articles
 
 .. _devops-killing-developer: http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/
 .. _vagrant-devops-tool: http://blog.ingineering.it/post/81406512594/why-vagrant-is-the-best-devops-tool-ever
-.. _itil-devops: http://noelbruton.wordpress.com/2014/04/04/how-to-modify-itil-to-accommodate-devops/
 .. _devops-large-organizations: http://www.cmcrossroads.com/interview/implementing-devops-large-complex-organizations-interview-mike-baukes
 .. _seven-habits: http://www.serena.com/blog/2014/03/seven-habits-of-highly-effective-devops/
 .. _devops-myths: http://www.informationweek.com/software/enterprise-applications/busting-5-devops-myths/d/d-id/1141597
