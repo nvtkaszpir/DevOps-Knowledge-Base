@@ -5,6 +5,7 @@ Failures
 Real life examples
 ------------------
 
+* Postmortem for outage of us-east-1: postmortem-for-outage_
 * GitHub: Denial of Service Attacks: github-dos_
 * Knight Capital Says Trading Glitch Cost It $440 Million: knight-capital_
 * Why was Pinball removed from Windows Vista?: pinball-windows_
@@ -12,6 +13,8 @@ Real life examples
 * Chicago Traiding System shutdown: chicago-traiding-shutdown_
 * Apple: apple_
 
+
+.. _postmortem-for-outage: http://www.joyent.com/blog/postmortem-for-outage-of-us-east-1-may-27-2014
 .. _github-dos: https://github.com/blog/1796-denial-of-service-attacks
 .. _knight-capital: http://dealbook.nytimes.com/2012/08/02/knight-capital-says-trading-mishap-cost-it-440-million/
 .. _pinball-windows: http://blogs.msdn.com/b/oldnewthing/archive/2012/12/18/10378851.aspx
