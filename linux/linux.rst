@@ -34,9 +34,12 @@ Think OS is an introduction to Operating Systems for programmers: thinkos_
 Howtos/Tutorials
 ----------------
 
-Aliens Bash Tutorial: http://www.subsignal.org/doc/AliensBashTutorial.html
+* Defensive BASH Programming: defensive-bash_
+* Aliens Bash Tutorial: http://www.subsignal.org/doc/AliensBashTutorial.html
+* Buddha Wiki: http://www.bitbull.ch/wiki/index.php/Hauptseite
 
-Buddha Wiki: http://www.bitbull.ch/wiki/index.php/Hauptseite
+
+.. _defensive-bash: http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/
 
 
 Virtualization
