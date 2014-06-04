@@ -10,8 +10,10 @@ Best Practices
 Articles
 --------
 
+* Continuous Delivery - Continuous Testing: continuous-testing_
 * PyGrunn: Sphinx plus Robot framework: robot-sphinx_
 
+.. _continuous-testing: http://www.slideshare.net/TomasRiha/continuous-delivery-testing-hi-q
 .. _robot-sphinx: http://reinout.vanrees.org/weblog/2014/05/09/robot.html
 
 Tools
