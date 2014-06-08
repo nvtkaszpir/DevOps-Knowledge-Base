@@ -98,13 +98,21 @@ Cacti is a complete network graphing solution designed to harness the power of R
 Articles
 --------
 
-* Service Discovery Solutions: service-discovery-solutions_
 * 10 Things We Forgot to Monitor: 10-things-to-monitor_
 * What we learnt talking to 60 companies about monitoring: what-we-learnt_
 
-.. _service-discovery-solutions: http://www.activestate.com/blog/2014/05/service-discovery-solutions
 .. _10-things-to-monitor: http://word.bitly.com/post/74839060954/ten-things-to-monitor
 .. _what-we-learnt: http://blog.dataloop.io/2014/01/30/what-we-learnt-talking-to-60-companies-about-monitoring/
+
+
+Service Discovery
+^^^^^^^^^^^^^^^^^
+
+* Open-Source Service Discovery: service-discovery-in-the-cloud_ 
+* Service Discovery Solutions: service-discovery-solutions_
+
+,, _service-discovery-in-the-cloud: http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/
+.. _service-discovery-solutions: http://www.activestate.com/blog/2014/05/service-discovery-solutions
 
 Books
 --------
