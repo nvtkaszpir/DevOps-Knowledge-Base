@@ -41,6 +41,7 @@ Jenkins
 Docker
 ^^^^^^
 
+* Dockerizing a Python Web App: dockerizing-python_
 * Using Docker & Ansible by John Minnihan: using-docker-ansible_
 * Docker Misconceptions: docker-misconceptions_ 
 * Docker as a framework for your DevOps culture: docker-as-framework_
@@ -48,6 +49,7 @@ Docker
 * Create a Python 3 environment using Docker: python3-docker_
 * So you're building a Docker image. What might be wrong with it? baseimage-docker_
 
+.. _dockerizing-python: http://blogs.aws.amazon.com/application-management/post/Tx1ZLAHMVBEDCOC/Dockerizing-a-Python-Web-App
 .. _using-docker-ansible: http://devops.com/blogs/using-docker-ansible/
 .. _docker-misconceptions: http://us2.campaign-archive2.com/?u=f9ffe9cdef2792a8ce77577f6&id=acda82e487&e=e117f16e0f
 .. _docker-as-framework: http://devops.com/blogs/docker-as-a-framework-for-your-devops-culture/
