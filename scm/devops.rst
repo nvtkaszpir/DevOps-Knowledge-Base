@@ -15,8 +15,10 @@ Best Practices
 Propaganda
 ----------
 
+* DevNation 2014 – Gene Kim Afternoon Keynote: Why Everyone Needs DevOps Now: why-everyone-needs-devops_
 * Need for DevOps is Growing: need-for-devops_
 
+.. _why-everyone-needs-devops: http://developerblog.redhat.com/2014/05/27/devnation-2014-gene-kim-afternoon-keynote-why-everyone-needs-devops-now/
 .. _need-for-devops: http://blogs.ca.com/devops/2013/10/07/what-cnn-and-fox-news-can-teach-us-about-devops
 
 What is DevOps
