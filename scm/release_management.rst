@@ -5,9 +5,10 @@ Release Management
 Best Practices
 --------------
 
-
+* The 10 Commandments of Release Engineering: ten-commandments_
 * Release Management Best Practices: release-best-practices_
 
+.. _ten-commandments: https://www.youtube.com/watch?v=RNMjYV_UsQ8
 .. _release-best-practices: http://www.cmnogueira.pt/2014/04/03/release-deployment-management-best-practices/
 
 
