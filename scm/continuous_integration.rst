@@ -5,12 +5,14 @@ Continuous Integration
 Articles
 --------
 
+* Delivering eBay’s CI Solution with Apache Mesos: ebays-ci-solution_
 * Continuous Integration for Infrastructure: ci-for-infrastructure_
 * PyGrunn: Advanced continuous integration: advanced-ci_
 * Continuous integration with travis and coveralls.io for Django apps: travis-and-django_
 * Continuous integration versus delayed integration: continuous-integration-versus_
 * Holistic view of Continuous Integration & Build: holistic-ci_
 
+.. _ebays-ci-solution: http://www.ebaytechblog.com/2014/05/12/delivering-ebays-ci-solution-with-apache-mesos-part-ii
 .. _ci-for-infrastructure: https://speakerdeck.com/garethr/continuous-integration-for-infrastructure
 .. _advanced-ci: http://reinout.vanrees.org/weblog/2014/05/09/continuous-integration.html
 .. _travis-and-django: http://agiliq.com/blog/2014/05/continuous-integration-with-travis-and-coverallsio/
