@@ -46,6 +46,21 @@ DevOps and ITIL
 .. _devops-and-itil: http://changeandrelease.com/2014/04/05/devops-and-itil-continuous-delivery-doesnt-stop-at-software/
 .. _itil-devops: http://noelbruton.wordpress.com/2014/04/04/how-to-modify-itil-to-accommodate-devops/
 
+DevOps and Enterprise
+---------------------
+
+* DevOps Is Great for Startups, but for Enterprises It Won’t Work—Yet: devops-for-enterprises_
+* DevOps Myths: devops-myths_
+* Big Enterprises Need Big DevOps: enterprises-need-devops_
+* DevOps vs The Enterprise: devops-vs-the-enterprise_
+
+.. _devops-for-enterprises: _http://blogs.wsj.com/cio/2014/05/13/devops-is-great-for-startups-but-for-enterprises-it-wont-work-yet/
+.. _devops-myths: http://www.informationweek.com/software/enterprise-applications/busting-5-devops-myths/d/d-id/1141597
+.. _enterprises-need-devops: http://blogs.ca.com/innovation/2014/01/15/big-enterprises-need-big-devops/
+.. _devops-vs-the-enterprise: http://www.slideshare.net/scriptrock/devops-vs-the-enterprise
+
+
+
 Articles
 --------
 
@@ -53,7 +68,6 @@ Articles
 * Why Vagrant is the Best DevOps Tool Ever: vagrant-devops-tool_
 * Implementing DevOps in Large Complex Organizations: An Interview with Mike Baukes: devops-large-organizations_
 * Seven Habits of Highly Effective DevOps: seven-habits_
-* DevOps Myths: devops-myths_
 * The DevOps Movement fits perfectly with ITSM: devops-itsm_
 * Red Hat IT Begins Its DevOps Journey: redhat-devops_
 * DevOps Kata - Single Line of Code: devops-kata_
@@ -64,7 +78,6 @@ Articles
 .. _vagrant-devops-tool: http://blog.ingineering.it/post/81406512594/why-vagrant-is-the-best-devops-tool-ever
 .. _devops-large-organizations: http://www.cmcrossroads.com/interview/implementing-devops-large-complex-organizations-interview-mike-baukes
 .. _seven-habits: http://www.serena.com/blog/2014/03/seven-habits-of-highly-effective-devops/
-.. _devops-myths: http://www.informationweek.com/software/enterprise-applications/busting-5-devops-myths/d/d-id/1141597
 .. _devops-itsm: http://www.theitsmreview.com/2014/03/trust-devops-movement-fits-perfectly-itsm/
 .. _redhat-devops: http://developerblog.redhat.com/2013/12/10/red-hat-begins-devops-journey/
 .. _devops-kata: http://www.devopsy.com/blog/2013/08/16/devops-kata-single-line-of-code/
@@ -124,9 +137,7 @@ Links
 * http://blog.devopsguys.com/2013/12/19/the-top-ten-devops-operational-requirements/
 * http://kief.com/infrastructure-as-code-versus-automation.html
 * http://blog.ingineering.it/post/72964480807/empathy-the-essence-of-devops
-* http://blogs.ca.com/innovation/2014/01/15/big-enterprises-need-big-devops/
 * http://www.slideshare.net/devopsguys/dev-opsguys-devops-101-for-recruiters
-* http://www.slideshare.net/scriptrock/devops-vs-the-enterprise
 * http://dave.cheney.net/2014/01/23/what-did-devops-mean
 * http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/
 * https://www.kickstarter.com/backing-and-hacking/hierarchy-of-devops-needs
