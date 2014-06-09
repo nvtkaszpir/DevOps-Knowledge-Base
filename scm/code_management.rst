@@ -238,6 +238,13 @@ Git Tools
 .. _gitsh: http://robots.thoughtbot.com/announcing-gitsh
 
 
+Git Use Cases
+"""""""""""""
+
+* Texas Instruments and Git: texas-instruments_
+
+.. _texas-instruments: http://processors.wiki.ti.com/index.php?title=Git#Setting_up_a_Git_Server
+
 Online Tutorials
 """"""""""""""""
 
