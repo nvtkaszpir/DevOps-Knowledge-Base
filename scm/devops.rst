@@ -53,11 +53,13 @@ DevOps and ITIL
 DevOps and Enterprise
 ---------------------
 
+* Can Devops work in the enterprise?” is the wrong question!: can-devops-work-enterprise_
 * DevOps Is Great for Startups, but for Enterprises It Won’t Work—Yet: devops-for-enterprises_
 * DevOps Myths: devops-myths_
 * Big Enterprises Need Big DevOps: enterprises-need-devops_
 * DevOps vs The Enterprise: devops-vs-the-enterprise_
 
+.. _can-devops-work-enterprise: http://blog.xebialabs.com/2014/06/09/can-devops-work-enterprise-wrong-question/
 .. _devops-for-enterprises: _http://blogs.wsj.com/cio/2014/05/13/devops-is-great-for-startups-but-for-enterprises-it-wont-work-yet/
 .. _devops-myths: http://www.informationweek.com/software/enterprise-applications/busting-5-devops-myths/d/d-id/1141597
 .. _enterprises-need-devops: http://blogs.ca.com/innovation/2014/01/15/big-enterprises-need-big-devops/
