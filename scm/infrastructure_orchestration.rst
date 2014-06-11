@@ -201,6 +201,7 @@ Rundeck Homepage: rundeck-homepage_
 Docker
 ^^^^^^
 
+* Building the best Open Source Community in the World: community-docker_
 * How We Use Docker For Continuous Delivery: use-docker-continuous-delivery_
 * Dockerizing a Python Web App: dockerizing-python_
 * Using Docker & Ansible by John Minnihan: using-docker-ansible_
@@ -210,6 +211,7 @@ Docker
 * Create a Python 3 environment using Docker: python3-docker_
 * So you're building a Docker image. What might be wrong with it? baseimage-docker_
 
+.. _community-docker: https://docs.google.com/presentation/d/1YzQeepvyL2HeIQr4KPu9cqOGZLF9WyigZJE_sckAyZc/edit#slide=id.p
 .. _use-docker-continuous-delivery: http://contino.co.uk/use-docker-continuous-delivery-part-2/
 .. _dockerizing-python: http://blogs.aws.amazon.com/application-management/post/Tx1ZLAHMVBEDCOC/Dockerizing-a-Python-Web-App
 .. _using-docker-ansible: http://devops.com/blogs/using-docker-ansible/
