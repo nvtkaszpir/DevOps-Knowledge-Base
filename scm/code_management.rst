@@ -336,6 +336,7 @@ Git and Android
 Gerrit
 ^^^^^^
 
+* From Code Review to OpsWorks: code-review-to-opsworks_
 * Code reviews and bad habits: code-reviews-bad-habits_ and code-reviews-bad-habits-discussion_
 * FOSDEM: Using Gerrit Code Review: using-gerrit_
 * Gerrit vs Rietveld and Gitosis: gerrit-rietveld-gitosis_
@@ -345,6 +346,7 @@ Gerrit
 * Gerrit backup: gerrit-backup_
 * Gerrit installation: gerrit-installation_
 
+.. _code-review-to-opsworks: http://labs.vistarmedia.com/2014/05/30/from-code-review-to-opsworks.html
 .. _code-reviews-bad-habits: http://bitquabit.com/post/code-reviews-and-bad-habits/
 .. _code-reviews-bad-habits-discussion: https://plus.google.com/111049168280159033135/posts/Bhv7yXt6BhU
 .. _using-gerrit: http://bofh.nikhef.nl/events/FOSDEM//2013/lightningtalks/Using_Gerrit_Code_Review_in_an_open_source_project.webm
