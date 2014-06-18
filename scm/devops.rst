@@ -26,6 +26,7 @@ Propaganda
 What is DevOps
 --------------
 
+* A Generalized Model for Automated DevOps: automated-devops_
 * Digging Deeper into DevOps: digging-deeper-devops_
 * What is DevOps? 3 progressively broader perspectives: what-is-devops_
 * DevOpsFriday5-with-Craig-Pearson: devopsfriday5_
@@ -34,6 +35,7 @@ What is DevOps
 * DevOps in Straight English: devops-straight-english_
 * DevOps: Can we automate our way to Business and IT Alignment?: devops-flickr_
 
+.. _automated-devops: http://blog.sei.cmu.edu/post.cfm/generalized-model-automated-devops-153
 .. _digging-deeper-devops: http://www.cmcrossroads.com/article/digging-deeper-devops
 .. _what-is-devops: https://medium.com/devops-programming/what-is-devops-1150f318a567
 .. _devopsfriday5: http://www.ranger4.com/blog/bid/75439/DevOpsFriday5-with-Craig-Pearson
