@@ -43,6 +43,13 @@ What is DevOps
 .. _devops-flickr: http://www.dayshaconsulting.com/devops-can-we-automate-business-and-it-alignment/
 
 
+DevOps and Security
+-------------------
+
+* Security considerations for DevOps adoption: security-considerations_
+
+.. _security-considerations: http://www.ibm.com/developerworks/library/d-security-considerations-devops-adoption/index.html
+
 DevOps and ITIL
 ---------------
 
