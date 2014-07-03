@@ -66,6 +66,7 @@ DevOps and ITIL
 DevOps and Enterprise
 ---------------------
 
+* Common Objections to DevOps from Enterprise Operations: devops-enterprise-operations_
 * DevOps isn't viable for enterprise? Tell that to IBM: devops-enterprise-ibm_
 * Can Devops work in the enterprise?” is the wrong question!: can-devops-work-enterprise_
 * DevOps Is Great for Startups, but for Enterprises It Won’t Work—Yet: devops-for-enterprises_
@@ -73,6 +74,7 @@ DevOps and Enterprise
 * Big Enterprises Need Big DevOps: enterprises-need-devops_
 * DevOps vs The Enterprise: devops-vs-the-enterprise_
 
+.. _devops-enterprise-operations: http://dev2ops.org/2014/06/adopting-devops-in-enterprise-operations/
 .. _devops-enterprise-ibm: http://www.networkworld.com/article/2358490/opensource-subnet/devops-isnt-viable-for-enterprise-tell-that-to-ibm.html
 .. _can-devops-work-enterprise: http://blog.xebialabs.com/2014/06/09/can-devops-work-enterprise-wrong-question/
 .. _devops-for-enterprises: _http://blogs.wsj.com/cio/2014/05/13/devops-is-great-for-startups-but-for-enterprises-it-wont-work-yet/
