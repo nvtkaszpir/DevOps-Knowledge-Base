@@ -203,6 +203,8 @@ Rundeck Homepage: rundeck-homepage_
 Docker
 ^^^^^^
 
+
+* Will the future be Dockerized?: docker-future_
 * Docker Networking: docker-networking_
 * Robust Containers: robust-containers_
 * Building the best Open Source Community in the World: community-docker_
@@ -215,6 +217,7 @@ Docker
 * Create a Python 3 environment using Docker: python3-docker_
 * So you're building a Docker image. What might be wrong with it? baseimage-docker_
 
+.. _docker-future: http://blog.xebialabs.com/2014/06/19/will-future-dockerized-notes-discussion-docker-containers-future-application-delivery/
 .. _docker-networking: http://www.jedelman.com/home/docker-networking
 .. _robust-containers: https://speakerdeck.com/eric_brewer/robust-containers
 .. _community-docker: https://docs.google.com/presentation/d/1YzQeepvyL2HeIQr4KPu9cqOGZLF9WyigZJE_sckAyZc/edit#slide=id.p
