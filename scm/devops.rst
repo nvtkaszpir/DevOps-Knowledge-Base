@@ -5,10 +5,12 @@ DevOps
 Best Practices
 --------------
 
+* 6 Elements of Highly Successful DevOps Environments: divingintodevops_
 * DevOps Best Practices: Finding the Right Tools: devops-tools_
 * Top 10 Practices for Effective DevOps: top-ten-practices_
 * DevOps = DevOps Principles + DevOps Practices: devops-principles_
 
+.. _divingintodevops: http://blog.newrelic.com/2014/06/12/divingintodevops/
 .. _devops-tools: http://blog.newrelic.com/2014/06/02/devops-tools/
 .. _top-ten-practices: http://www.drdobbs.com/architecture-and-design/top-10-practices-for-effective-devops/240149363?utm_content=buffer48a26
 .. _devops-principles: http://java.dzone.com/articles/devops-devops-principles
