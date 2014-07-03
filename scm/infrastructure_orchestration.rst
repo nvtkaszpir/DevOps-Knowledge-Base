@@ -13,9 +13,11 @@ Best Practices
 Articles
 --------
 
+* Infrastructure with Python: infrastructure-with-python_
 * Chicken or Egg: Abstraction and Automation: chicken-or-egg-abstraction-and_
 * Manage Resources like a Hotel: infrastructure-like-a-hotel_
 
+.. _infrastructure-with-python: http://dustinrcollins.com/infrastructure-with-python
 .. _chicken-or-egg-abstraction-and: http://java.dzone.com/articles/chicken-or-egg-abstraction-and
 .. _infrastructure-like-a-hotel: http://www.cloudsidekick.com/blog/manage-resources-like-a-hotel.html
 
