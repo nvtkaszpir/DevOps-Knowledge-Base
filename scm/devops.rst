@@ -89,6 +89,7 @@ DevOps and Enterprise
 Articles
 --------
 
+* A practical guide to anomaly detection for devops: devops-anomaly-detection_
 * How 'DevOps' is Killing the Developer: devops-killing-developer_
 * Why Vagrant is the Best DevOps Tool Ever: vagrant-devops-tool_
 * Implementing DevOps in Large Complex Organizations: An Interview with Mike Baukes: devops-large-organizations_
@@ -99,6 +100,7 @@ Articles
 * What if Everything We’ve Been Doing is Wrong? everything-is-wrong_
 * DevOps: Self-Service: devops-self-service_
 
+.. _devops-anomaly-detection: http://blog.bigpanda.io/a-practical-guide-to-anomaly-detection/
 .. _devops-killing-developer: http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/
 .. _vagrant-devops-tool: http://blog.ingineering.it/post/81406512594/why-vagrant-is-the-best-devops-tool-ever
 .. _devops-large-organizations: http://www.cmcrossroads.com/interview/implementing-devops-large-complex-organizations-interview-mike-baukes
