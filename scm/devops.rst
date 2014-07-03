@@ -26,6 +26,7 @@ Propaganda
 What is DevOps
 --------------
 
+* What’s Trending with DevOps Tools: A Study Using Google: devops-tools-trending_
 * A Generalized Model for Automated DevOps: automated-devops_
 * Digging Deeper into DevOps: digging-deeper-devops_
 * What is DevOps? 3 progressively broader perspectives: what-is-devops_
@@ -35,6 +36,7 @@ What is DevOps
 * DevOps in Straight English: devops-straight-english_
 * DevOps: Can we automate our way to Business and IT Alignment?: devops-flickr_
 
+.. _devops-tools-trending: http://flux7.com/blogs/devops/whats-trending-with-devops-tools-a-study-using-google/
 .. _automated-devops: http://blog.sei.cmu.edu/post.cfm/generalized-model-automated-devops-153
 .. _digging-deeper-devops: http://www.cmcrossroads.com/article/digging-deeper-devops
 .. _what-is-devops: https://medium.com/devops-programming/what-is-devops-1150f318a567
