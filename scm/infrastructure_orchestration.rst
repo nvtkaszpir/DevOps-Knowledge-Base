@@ -169,10 +169,12 @@ Ansible
 
 It turns out, that about the same time I did look around, a new alternative was launched called Ansible, written in Python. I haven’t done a lot with it yet. But I really like what I’ve seen so far, and the design principles really resonates with me. The easiest config management system to use, ever. Requires no software to be installed on the remote box for bootstrapping Idempotent modules (although you can choose whether or not to have this for your own modules) I think the author Michael DeHaan sums it up really good in this interview:
 
+* Successfully automating your machines in the cloud using Ansible: automating-with-ansible_
 * Ansible thoughts: ansible-thoughts_
 * Ansible’s View on IT Automation: ansible-automation_
 * A look at Ansible: look-at-ansible_
 
+.. _automating-with-ansible: https://www.youtube.com/watch?v=ptzruazbRXY
 .. _ansible-thoughts: http://reinout.vanrees.org/weblog/2014/06/27/ansible-thoughts.html
 .. _ansible-automation: http://www.infoq.com/articles/ansible-view-on-it-automation
 .. _look-at-ansible: http://www.lexicallyscoped.com/2013/03/17/ansible.html
