@@ -11,6 +11,9 @@ Python continues to grow slowly, and Perl continues its long decline. According 
 
 Programming language popularity chart: http://langpop.corger.nl/
 
+* Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities: python-universities_
+
+.. _python-universities: http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext
 
 Testing
 -------
