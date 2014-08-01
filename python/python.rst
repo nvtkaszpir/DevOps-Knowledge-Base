@@ -24,6 +24,8 @@ Pytest Introduction: http://pythontesting.net/framework/pytest-introduction/
 Tutorials
 ---------
 
+http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/
+
 Distributing a Python command line application: http://gehrcke.de/2014/02/distributing-a-python-command-line-application
 
 Advanced Python: http://scipy-lectures.github.com/advanced/advanced_python/index.html
