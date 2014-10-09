@@ -65,6 +65,13 @@ DevOps and ITIL
 .. _devops-and-itil: http://changeandrelease.com/2014/04/05/devops-and-itil-continuous-delivery-doesnt-stop-at-software/
 .. _itil-devops: http://noelbruton.wordpress.com/2014/04/04/how-to-modify-itil-to-accommodate-devops/
 
+DevOps and Culture
+------------------
+
+* The Divisiveness Of The Term “DevOps Culture”: devops-culture_
+
+.. _devops-culture: http://devops.com/blogs/divisiveness-term-devops-culture/
+
 DevOps and Enterprise
 ---------------------
 
