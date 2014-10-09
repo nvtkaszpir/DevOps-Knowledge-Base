@@ -46,13 +46,15 @@ Static/Abstract methods: http://julien.danjou.info/blog/2013/guide-python-static
 Django
 ------
 
+An Architecture for Django Templates: https://oncampus.oberlin.edu/webteam/2012/09/architecture-django-templates
+
 Migrating Django projects with fixtures: http://kuttler.eu/post/django-db-utils-IntegrityError-duplicate-entry/
 
 Making a specific Django app faster: http://reinout.vanrees.org/weblog/2014/05/06/making-faster.html
 
 Understanding Test Driven Development with Django: http://arunrocks.com/understanding-tdd-with-django
 
-Starting a Django 1.4 Project the Right Way: http://www.jeffknupp.com/blog/2012/10/24/starting-a-django-14-project-the-right-way/
+Starting a Django 1.6 Project the Right Way: http://www.jeffknupp.com/blog/2013/12/18/starting-a-django-16-project-the-right-way/
 
 Web development with Django and Python: http://www.slideshare.net/mpirnat/web-development-with-python-and-django
 
