@@ -56,6 +56,7 @@ Additional labels for pre-release and build metadata are available as extensions
 
 Other models:
 
+* Python: python_
 * Git 1.9 Versioning: git-1.9-versioning_
 * Gnome Versioning: gnome-versioning_
 * Maven Versioning: maven-versioning_
@@ -66,7 +67,7 @@ Other models:
 .. _gnome-versioning: http://www106.pair.com/rhp/parallel.html
 .. _maven-versioning: http://docs.codehaus.org/display/MAVEN/Versioning
 .. _semantic-versioning: http://semver.org/
-
+.. _python: http://legacy.python.org/dev/peps/pep-0440/
 
 Tools
 -----
