@@ -214,6 +214,7 @@ Rundeck Homepage: rundeck-homepage_
 Docker
 ^^^^^^
 
+* How to Set Up TravisCI-like Continuous Integration with Docker and Jenkins: docker-jenkins-github_
 * Docker Misconceptions: docker-misconceptions_
 * 8 Ways to Use Docker in the Real World: 8-ways-to-use-docker_
 * Will the future be Dockerized?: docker-future_
@@ -229,6 +230,7 @@ Docker
 * Create a Python 3 environment using Docker: python3-docker_
 * So you're building a Docker image. What might be wrong with it? baseimage-docker_
 
+.. _docker-jenkins-github: https://zapier.com/engineering/continuous-integration-jenkins-docker-github/
 .. _docker-misconceptions: https://devopsu.com/blog/docker-misconceptions/
 .. _8-ways-to-use-docker: http://flux7.com/blogs/docker/8-ways-to-use-docker-in-the-real-world/
 .. _docker-future: http://blog.xebialabs.com/2014/06/19/will-future-dockerized-notes-discussion-docker-containers-future-application-delivery/
