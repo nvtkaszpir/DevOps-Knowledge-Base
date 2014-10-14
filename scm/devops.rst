@@ -70,8 +70,10 @@ DevOps and ITIL
 DevOps and Culture
 ------------------
 
+* DevOps: Tools Vs Culture: tools-vs-culture_
 * The Divisiveness Of The Term “DevOps Culture”: devops-culture_
 
+.. _tools-vs-culture: http://www.activestate.com/blog/2014/08/devops-tools-vs-culture
 .. _devops-culture: http://devops.com/blogs/divisiveness-term-devops-culture/
 
 DevOps and Enterprise
