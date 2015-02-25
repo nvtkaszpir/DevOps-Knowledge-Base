@@ -162,7 +162,7 @@ Glu takes a very declarative approach, in which you describe/model what you want
 
 Glu Homepage: glu-homepage_
 
-.. _glu-homepage: http://linkedin.github.com/glu/docs/latest/html/index.html
+.. _glu-homepage: http://pongasoft.github.io/glu/docs/latest/html/index.html
 
 Ansible
 ^^^^^^^
