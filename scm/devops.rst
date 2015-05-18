@@ -55,8 +55,10 @@ DevOps and Security
 -------------------
 
 * Security considerations for DevOps adoption: security-considerations_
+* Token Management: vault_project_
 
 .. _security-considerations: http://www.ibm.com/developerworks/library/d-security-considerations-devops-adoption/index.html
+.. _vault-project: https://vaultproject.io/
 
 DevOps and ITIL
 ---------------
@@ -81,7 +83,7 @@ DevOps and Enterprise
 
 * Labeling DevOps Hurts the Movement: labeling-devops-hurts_
 * Common Objections to DevOps from Enterprise Operations: devops-enterprise-operations_
-* DevOps isn't viable for enterprise? Tell that to IBM: devops-enterprise-ibm_
+* DevOps isn't viable for enterprise? Tell that to IBM: devops-enterprisese-ibm_
 * Can Devops work in the enterprise?” is the wrong question!: can-devops-work-enterprise_
 * DevOps Is Great for Startups, but for Enterprises It Won’t Work—Yet: devops-for-enterprises_
 * DevOps Myths: devops-myths_
