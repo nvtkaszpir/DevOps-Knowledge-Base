@@ -145,8 +145,10 @@ Containerization
 ----------------
 
 * Using Containers for Continuous Deployment: using-cointainers_
+* Demonstration of realtime Linux container autoscaling: force12_
 
 .. _using-cointainers: http://www.cmcrossroads.com/article/using-containers-continuous-deployment
+.. _force12: http://force12.io/
 
 LXC
 ^^^
