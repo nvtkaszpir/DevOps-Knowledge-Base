@@ -51,3 +51,11 @@ Virtualization
 
 .. _osv-homepage: https://github.com/cloudius-systems/osv
 .. _mesos-homepage: http://mesos.apache.org/
+
+
+Performance
+-----------
+
+* Socket Sharding in NGINX: socket-sharding_
+
+.. _socket-sharding: http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/
