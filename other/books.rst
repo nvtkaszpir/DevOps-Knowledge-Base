@@ -43,6 +43,8 @@ Free
 
 * Application Release and Deployment For Dummies: ibm-for-dummies_
 * Great database of free books about Software Development (all languages): free-programming_
+* the Architecture of Open Source Applications: open-source-architecture_
 
 .. _ibm-for-dummies: https://www.ibm.com/developerworks/community/blogs/greenelk/entry/application_release_and_deployment_for_dummies_now_available
 .. _free-programming: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+.. _open-source-architecture: http://aosabook.org/en/index.html
