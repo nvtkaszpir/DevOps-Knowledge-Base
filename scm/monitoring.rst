@@ -136,9 +136,11 @@ Examples
 Dashboards
 ----------
 
+* Hygieia: hygieia_
 * Dashing: dashing_
 * Demo: dashing-demo_
 
+.. _hygieia: https://github.com/capitalone/Hygieia
 .. _dashing: http://shopify.github.com/dashing/#setup
 .. _dashing-demo:  http://dashingdemo.herokuapp.com/sample
 
