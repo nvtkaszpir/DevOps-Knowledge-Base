@@ -125,8 +125,10 @@ Android
 Starting with Cupcake, individual builds are identified with a short build code, e.g. FRF85B. The first letter is the code name of the release family, e.g. F is Froyo. The second letter is a branch code that allows Google to identify the exact code branch that the build was made from, and R is by convention the primary release branch. The next letter and two digits are a date code. The letter counts quarters, with A being Q1 2009. Therefore, F is Q2 2010. The two digits count days within the quarter, so F85 is June 24 2010. Finally, the last letter identifies individual versions related to the same date code, sequentially starting with A; A is actually implicit and usually omitted for brevity.
 
 * Versioning - an Underrated Discipline: versioning-underrated-discipline_
+* Semantic Versioning: semantic-versioning_
 
 .. _versioning-underrated-discipline: http://lgiordani.github.io/blog/2013/03/20/versioning-an-underrated-discipline/
+.. _semantic-versioning: http://semver.org/
 
 Tools
 -----
